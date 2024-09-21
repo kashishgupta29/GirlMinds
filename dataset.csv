@@ -1,0 +1,1034 @@
+heartbeat,position,activity,location,time_of_day,panic_button_pressed,phone_status,surrounding_noise_level,companion_presence,is_in_safe_zone,alert_triggered
+85,standing,studying,"Lat:48.2178, Long:30.6602",afternoon,FALSE,off,95,FALSE,FALSE,TRUE
+118,standing,sitting,"Lat:10.3889, Long:43.2871",morning,TRUE,idle,83,FALSE,TRUE,FALSE
+74,standing,sitting,"Lat:19.9303, Long:13.7204",evening,FALSE,active,48,FALSE,FALSE,FALSE
+93,lying down,studying,"Lat:36.9479, Long:42.843",afternoon,FALSE,idle,30,TRUE,FALSE,TRUE
+145,standing,eating,"Lat:13.0412, Long:47.2558",evening,FALSE,idle,58,TRUE,TRUE,TRUE
+170,standing,walking,"Lat:29.0622, Long:24.1415",afternoon,TRUE,off,33,FALSE,TRUE,TRUE
+122,lying down,walking,"Lat:45.7727, Long:20.763",night,FALSE,off,59,TRUE,FALSE,FALSE
+127,sitting,studying,"Lat:47.8847, Long:37.3243",morning,TRUE,active,84,FALSE,TRUE,TRUE
+141,standing,sleeping,"Lat:46.3971, Long:29.96",afternoon,FALSE,idle,79,FALSE,TRUE,FALSE
+100,sitting,exercising,"Lat:17.9867, Long:39.4172",night,TRUE,active,48,FALSE,FALSE,FALSE
+136,lying down,exercising,"Lat:44.9097, Long:18.2711",night,TRUE,off,75,FALSE,TRUE,TRUE
+109,standing,sleeping,"Lat:18.1107, Long:19.9878",evening,FALSE,off,66,TRUE,TRUE,TRUE
+138,standing,sitting,"Lat:34.7439, Long:16.2398",evening,TRUE,active,58,TRUE,TRUE,FALSE
+110,sitting,eating,"Lat:14.2676, Long:46.8075",night,TRUE,idle,79,FALSE,FALSE,TRUE
+135,lying down,exercising,"Lat:37.0325, Long:36.537",evening,TRUE,idle,44,TRUE,FALSE,TRUE
+74,standing,sleeping,"Lat:34.5531, Long:40.5698",night,FALSE,idle,92,FALSE,TRUE,FALSE
+104,sitting,eating,"Lat:31.659, Long:11.6905",night,FALSE,idle,51,TRUE,TRUE,TRUE
+105,standing,sitting,"Lat:29.2917, Long:34.8267",night,FALSE,off,44,FALSE,FALSE,FALSE
+168,standing,exercising,"Lat:29.6936, Long:49.4145",evening,TRUE,active,58,TRUE,TRUE,TRUE
+118,standing,exercising,"Lat:45.88, Long:44.7508",afternoon,TRUE,off,43,FALSE,TRUE,FALSE
+139,lying down,sleeping,"Lat:29.6322, Long:49.3758",night,TRUE,off,66,FALSE,FALSE,TRUE
+82,lying down,exercising,"Lat:46.6403, Long:21.2107",morning,FALSE,off,75,FALSE,TRUE,FALSE
+164,standing,walking,"Lat:18.8837, Long:33.0666",morning,TRUE,off,39,TRUE,FALSE,TRUE
+146,standing,walking,"Lat:12.1659, Long:41.9708",evening,TRUE,active,72,FALSE,TRUE,FALSE
+150,lying down,walking,"Lat:29.1328, Long:31.6307",night,FALSE,active,45,TRUE,TRUE,FALSE
+162,sitting,sleeping,"Lat:30.099, Long:25.7487",night,FALSE,idle,76,FALSE,FALSE,FALSE
+98,standing,exercising,"Lat:37.4535, Long:16.992",afternoon,TRUE,active,40,TRUE,FALSE,TRUE
+177,sitting,sitting,"Lat:49.0603, Long:37.9298",afternoon,TRUE,off,35,TRUE,FALSE,TRUE
+138,lying down,exercising,"Lat:28.4028, Long:37.5684",morning,FALSE,idle,49,FALSE,FALSE,FALSE
+135,lying down,sitting,"Lat:10.4728, Long:18.4301",morning,FALSE,idle,52,TRUE,FALSE,TRUE
+70,sitting,exercising,"Lat:33.2403, Long:23.0174",morning,TRUE,active,84,TRUE,FALSE,TRUE
+146,lying down,walking,"Lat:34.5111, Long:20.388",morning,TRUE,idle,97,FALSE,FALSE,TRUE
+77,standing,exercising,"Lat:31.9425, Long:19.4856",night,TRUE,active,72,FALSE,TRUE,TRUE
+100,sitting,exercising,"Lat:28.8538, Long:34.5234",morning,FALSE,idle,53,TRUE,TRUE,TRUE
+75,sitting,walking,"Lat:24.637, Long:29.9508",afternoon,FALSE,off,84,FALSE,TRUE,TRUE
+90,sitting,sleeping,"Lat:18.4213, Long:38.0285",night,FALSE,idle,49,FALSE,TRUE,TRUE
+99,standing,sleeping,"Lat:24.8924, Long:44.173",evening,FALSE,active,68,TRUE,TRUE,FALSE
+74,standing,exercising,"Lat:21.1852, Long:17.1956",afternoon,FALSE,off,66,TRUE,FALSE,FALSE
+83,lying down,exercising,"Lat:15.2456, Long:33.0357",evening,TRUE,idle,74,FALSE,TRUE,FALSE
+107,sitting,sitting,"Lat:19.1427, Long:13.9948",morning,FALSE,active,43,TRUE,FALSE,FALSE
+148,lying down,exercising,"Lat:20.798, Long:19.4322",morning,TRUE,off,64,FALSE,TRUE,TRUE
+78,sitting,running,"Lat:27.2888, Long:25.2353",night,TRUE,off,93,FALSE,TRUE,TRUE
+125,lying down,eating,"Lat:15.8337, Long:48.3659",night,TRUE,off,77,TRUE,FALSE,TRUE
+109,sitting,sitting,"Lat:15.9819, Long:42.2267",afternoon,FALSE,active,63,TRUE,FALSE,FALSE
+113,standing,sleeping,"Lat:17.0643, Long:29.9839",evening,TRUE,off,39,FALSE,FALSE,FALSE
+136,lying down,studying,"Lat:49.8225, Long:43.9756",night,FALSE,idle,30,TRUE,FALSE,FALSE
+77,lying down,sleeping,"Lat:30.6803, Long:38.8224",night,TRUE,idle,49,TRUE,TRUE,TRUE
+133,lying down,sleeping,"Lat:41.4133, Long:22.0014",evening,TRUE,off,48,FALSE,TRUE,FALSE
+109,lying down,exercising,"Lat:32.4855, Long:32.7134",evening,FALSE,off,70,TRUE,TRUE,TRUE
+114,sitting,exercising,"Lat:25.9361, Long:37.6217",morning,FALSE,active,48,FALSE,TRUE,TRUE
+83,standing,studying,"Lat:12.4015, Long:42.5527",morning,TRUE,idle,79,TRUE,TRUE,FALSE
+122,lying down,exercising,"Lat:29.0616, Long:35.1945",night,FALSE,off,87,TRUE,TRUE,FALSE
+141,lying down,exercising,"Lat:27.9942, Long:23.3863",morning,FALSE,off,91,FALSE,TRUE,FALSE
+128,standing,eating,"Lat:24.4385, Long:32.414",night,FALSE,idle,38,FALSE,TRUE,TRUE
+148,sitting,sleeping,"Lat:47.2738, Long:20.3086",night,FALSE,off,44,TRUE,TRUE,FALSE
+177,sitting,sitting,"Lat:10.7934, Long:14.8495",evening,FALSE,active,84,FALSE,FALSE,FALSE
+142,lying down,eating,"Lat:44.6947, Long:48.5247",night,TRUE,idle,65,FALSE,TRUE,FALSE
+179,lying down,studying,"Lat:17.9583, Long:33.0358",night,FALSE,idle,48,FALSE,FALSE,TRUE
+82,sitting,eating,"Lat:35.9652, Long:16.9816",night,FALSE,off,41,TRUE,TRUE,FALSE
+131,standing,running,"Lat:41.2124, Long:24.2044",morning,TRUE,idle,71,FALSE,TRUE,FALSE
+81,standing,sleeping,"Lat:36.9277, Long:29.4997",morning,FALSE,active,46,FALSE,TRUE,TRUE
+122,lying down,running,"Lat:39.461, Long:45.5853",afternoon,FALSE,idle,53,FALSE,FALSE,TRUE
+96,standing,running,"Lat:25.2428, Long:21.4609",evening,TRUE,active,79,TRUE,FALSE,FALSE
+77,lying down,studying,"Lat:35.2685, Long:15.7939",afternoon,TRUE,off,75,FALSE,FALSE,FALSE
+83,lying down,walking,"Lat:16.703, Long:42.3087",night,TRUE,active,70,FALSE,FALSE,TRUE
+100,sitting,running,"Lat:23.4955, Long:35.2509",night,FALSE,off,93,TRUE,FALSE,FALSE
+167,lying down,exercising,"Lat:32.8655, Long:43.956",afternoon,TRUE,active,84,TRUE,TRUE,FALSE
+117,standing,running,"Lat:12.8538, Long:16.48",evening,TRUE,off,91,FALSE,TRUE,TRUE
+139,standing,walking,"Lat:19.1287, Long:22.6751",night,TRUE,off,82,TRUE,FALSE,TRUE
+66,lying down,sitting,"Lat:21.6543, Long:20.6989",night,FALSE,active,72,FALSE,FALSE,TRUE
+170,sitting,eating,"Lat:35.7858, Long:20.8499",morning,FALSE,active,47,TRUE,FALSE,TRUE
+105,lying down,eating,"Lat:27.7959, Long:44.5123",night,FALSE,idle,61,FALSE,FALSE,TRUE
+61,standing,walking,"Lat:24.5266, Long:33.4768",night,TRUE,off,79,FALSE,FALSE,TRUE
+122,lying down,sitting,"Lat:48.621, Long:26.5596",night,TRUE,idle,83,TRUE,FALSE,TRUE
+77,lying down,exercising,"Lat:17.3554, Long:10.924",afternoon,TRUE,idle,100,FALSE,FALSE,TRUE
+84,standing,sitting,"Lat:39.1109, Long:36.4809",morning,FALSE,off,93,FALSE,TRUE,FALSE
+164,sitting,walking,"Lat:47.6175, Long:38.0279",night,TRUE,active,98,TRUE,TRUE,TRUE
+109,standing,eating,"Lat:13.2026, Long:16.6764",evening,FALSE,active,98,FALSE,TRUE,TRUE
+131,sitting,running,"Lat:14.1204, Long:12.5517",night,FALSE,off,93,FALSE,FALSE,TRUE
+124,lying down,exercising,"Lat:45.1476, Long:31.9373",night,FALSE,idle,98,TRUE,TRUE,FALSE
+143,standing,eating,"Lat:11.0546, Long:25.8805",evening,FALSE,idle,98,TRUE,FALSE,FALSE
+123,standing,sitting,"Lat:40.5999, Long:13.33",evening,TRUE,idle,59,FALSE,FALSE,FALSE
+112,sitting,walking,"Lat:20.4981, Long:16.211",evening,TRUE,off,79,FALSE,FALSE,TRUE
+147,sitting,eating,"Lat:36.1933, Long:45.4189",morning,TRUE,idle,40,FALSE,FALSE,FALSE
+122,standing,sleeping,"Lat:22.3748, Long:19.8959",morning,FALSE,idle,83,FALSE,TRUE,TRUE
+113,lying down,running,"Lat:21.367, Long:35.0592",morning,FALSE,idle,97,FALSE,FALSE,TRUE
+150,standing,sitting,"Lat:15.2511, Long:43.5407",afternoon,TRUE,idle,58,FALSE,FALSE,TRUE
+167,lying down,eating,"Lat:11.1429, Long:36.542",evening,FALSE,active,41,FALSE,TRUE,TRUE
+116,lying down,studying,"Lat:44.4148, Long:23.0081",evening,TRUE,off,60,FALSE,TRUE,FALSE
+122,lying down,running,"Lat:29.0462, Long:48.9993",morning,TRUE,off,76,FALSE,FALSE,TRUE
+81,lying down,sleeping,"Lat:31.6234, Long:20.8966",evening,TRUE,idle,30,FALSE,FALSE,TRUE
+70,sitting,eating,"Lat:27.7938, Long:48.7817",night,FALSE,idle,56,TRUE,FALSE,TRUE
+132,sitting,exercising,"Lat:37.9049, Long:17.0815",morning,FALSE,off,32,TRUE,FALSE,FALSE
+63,standing,exercising,"Lat:33.9034, Long:35.2419",night,TRUE,active,76,FALSE,TRUE,TRUE
+161,sitting,sleeping,"Lat:35.434, Long:32.5594",evening,TRUE,off,90,TRUE,TRUE,FALSE
+157,standing,eating,"Lat:30.9384, Long:35.5811",evening,FALSE,off,47,TRUE,FALSE,FALSE
+88,standing,walking,"Lat:22.3865, Long:23.8867",night,TRUE,idle,44,FALSE,FALSE,FALSE
+97,lying down,exercising,"Lat:31.5867, Long:42.1883",evening,TRUE,active,37,TRUE,TRUE,FALSE
+64,standing,exercising,"Lat:27.6744, Long:24.6313",morning,FALSE,active,74,FALSE,TRUE,FALSE
+95,sitting,sleeping,"Lat:20.3923, Long:22.1429",afternoon,FALSE,idle,76,TRUE,TRUE,TRUE
+88,sitting,studying,"Lat:10.0037, Long:42.6152",afternoon,TRUE,off,47,FALSE,FALSE,TRUE
+128,standing,walking,"Lat:43.9179, Long:23.7554",afternoon,FALSE,active,67,TRUE,FALSE,FALSE
+96,lying down,sleeping,"Lat:28.7679, Long:10.3327",evening,FALSE,off,88,FALSE,TRUE,TRUE
+81,standing,eating,"Lat:46.8835, Long:47.8783",morning,TRUE,idle,48,TRUE,TRUE,FALSE
+159,standing,eating,"Lat:29.0827, Long:10.3653",morning,TRUE,idle,100,FALSE,FALSE,TRUE
+118,sitting,eating,"Lat:27.2174, Long:21.7169",evening,TRUE,off,83,TRUE,FALSE,TRUE
+132,sitting,exercising,"Lat:19.2486, Long:10.2887",morning,FALSE,active,61,FALSE,TRUE,FALSE
+155,lying down,sitting,"Lat:24.9458, Long:26.4694",evening,TRUE,off,56,FALSE,FALSE,TRUE
+158,sitting,exercising,"Lat:32.4222, Long:25.7901",afternoon,FALSE,active,58,TRUE,FALSE,FALSE
+158,standing,exercising,"Lat:16.5308, Long:39.4847",morning,FALSE,idle,37,TRUE,TRUE,TRUE
+123,sitting,running,"Lat:25.5889, Long:25.1343",evening,TRUE,off,47,TRUE,FALSE,TRUE
+130,sitting,studying,"Lat:20.5192, Long:26.8896",morning,TRUE,idle,45,FALSE,TRUE,TRUE
+125,sitting,studying,"Lat:19.5825, Long:40.5815",night,TRUE,idle,48,TRUE,FALSE,TRUE
+74,sitting,studying,"Lat:46.3982, Long:42.303",night,TRUE,active,78,FALSE,FALSE,FALSE
+133,lying down,eating,"Lat:37.3856, Long:21.3871",night,TRUE,active,33,TRUE,FALSE,TRUE
+74,sitting,exercising,"Lat:39.7171, Long:42.3523",evening,TRUE,active,84,FALSE,TRUE,TRUE
+94,standing,sitting,"Lat:26.5162, Long:44.1393",morning,TRUE,off,77,FALSE,FALSE,FALSE
+159,sitting,sleeping,"Lat:17.2963, Long:21.5838",night,FALSE,active,36,FALSE,FALSE,TRUE
+129,lying down,running,"Lat:35.4757, Long:34.7092",morning,TRUE,off,43,TRUE,TRUE,TRUE
+165,lying down,running,"Lat:20.8854, Long:34.9102",evening,FALSE,off,39,TRUE,TRUE,FALSE
+106,lying down,exercising,"Lat:17.5116, Long:10.7758",night,TRUE,active,91,TRUE,FALSE,FALSE
+129,standing,sitting,"Lat:11.9853, Long:31.3988",night,TRUE,idle,50,TRUE,FALSE,FALSE
+165,standing,walking,"Lat:17.4375, Long:14.0909",evening,FALSE,off,33,TRUE,FALSE,FALSE
+156,sitting,sleeping,"Lat:20.7678, Long:38.6078",morning,FALSE,off,48,FALSE,TRUE,TRUE
+65,standing,eating,"Lat:39.0843, Long:19.3124",night,TRUE,active,76,TRUE,FALSE,TRUE
+157,standing,eating,"Lat:16.0273, Long:29.7432",morning,FALSE,off,48,TRUE,TRUE,FALSE
+152,sitting,eating,"Lat:23.6765, Long:22.4631",afternoon,TRUE,active,40,TRUE,TRUE,FALSE
+116,standing,eating,"Lat:41.9785, Long:49.9185",evening,FALSE,idle,61,FALSE,FALSE,FALSE
+129,sitting,studying,"Lat:28.5474, Long:41.657",night,FALSE,idle,39,FALSE,TRUE,FALSE
+87,sitting,eating,"Lat:23.2099, Long:43.7419",evening,FALSE,off,31,TRUE,TRUE,TRUE
+114,standing,walking,"Lat:48.0658, Long:12.2415",afternoon,FALSE,active,83,FALSE,TRUE,FALSE
+73,standing,exercising,"Lat:41.0261, Long:12.8554",evening,TRUE,active,49,TRUE,TRUE,FALSE
+154,sitting,exercising,"Lat:28.8059, Long:17.6877",evening,FALSE,active,53,TRUE,TRUE,TRUE
+166,standing,exercising,"Lat:43.6616, Long:42.69",night,FALSE,idle,90,TRUE,FALSE,FALSE
+143,sitting,exercising,"Lat:43.1301, Long:14.8785",afternoon,FALSE,idle,47,TRUE,TRUE,FALSE
+156,standing,sitting,"Lat:40.7258, Long:19.9585",night,TRUE,active,97,TRUE,TRUE,TRUE
+91,lying down,eating,"Lat:40.849, Long:27.7184",morning,TRUE,active,68,TRUE,FALSE,TRUE
+98,standing,sleeping,"Lat:39.5048, Long:11.3404",afternoon,TRUE,active,90,TRUE,TRUE,TRUE
+171,lying down,sleeping,"Lat:28.4334, Long:40.8398",evening,FALSE,off,82,TRUE,FALSE,TRUE
+64,standing,exercising,"Lat:30.8456, Long:49.2846",evening,FALSE,off,73,TRUE,TRUE,TRUE
+117,sitting,sleeping,"Lat:28.913, Long:37.2577",morning,FALSE,idle,86,TRUE,FALSE,TRUE
+93,lying down,walking,"Lat:22.4844, Long:22.9225",evening,FALSE,off,31,FALSE,TRUE,TRUE
+104,lying down,eating,"Lat:35.1666, Long:11.6874",night,TRUE,idle,66,TRUE,TRUE,TRUE
+170,sitting,exercising,"Lat:47.4968, Long:30.8371",afternoon,FALSE,active,44,FALSE,FALSE,FALSE
+164,lying down,walking,"Lat:20.1325, Long:35.5408",morning,TRUE,off,49,FALSE,FALSE,FALSE
+71,standing,sitting,"Lat:17.9489, Long:45.5008",morning,FALSE,off,37,TRUE,TRUE,TRUE
+116,sitting,studying,"Lat:44.5463, Long:18.7115",evening,TRUE,idle,34,TRUE,FALSE,TRUE
+170,lying down,walking,"Lat:14.5171, Long:35.3164",evening,TRUE,active,52,FALSE,TRUE,TRUE
+75,standing,exercising,"Lat:22.9805, Long:16.6944",morning,TRUE,active,94,FALSE,FALSE,FALSE
+159,lying down,running,"Lat:21.044, Long:14.786",night,FALSE,active,50,FALSE,FALSE,TRUE
+163,sitting,walking,"Lat:41.5658, Long:10.3572",night,TRUE,active,31,TRUE,TRUE,FALSE
+90,standing,walking,"Lat:11.6797, Long:41.339",afternoon,TRUE,idle,80,TRUE,TRUE,FALSE
+86,standing,exercising,"Lat:29.0108, Long:33.8485",evening,TRUE,idle,84,FALSE,TRUE,FALSE
+163,standing,sleeping,"Lat:24.8559, Long:13.5792",morning,TRUE,idle,88,FALSE,TRUE,FALSE
+154,sitting,running,"Lat:16.3079, Long:13.6561",evening,FALSE,off,100,TRUE,FALSE,TRUE
+135,standing,studying,"Lat:34.7458, Long:47.234",evening,FALSE,off,63,FALSE,TRUE,FALSE
+148,standing,running,"Lat:49.8789, Long:35.0053",night,TRUE,active,94,TRUE,TRUE,FALSE
+104,sitting,studying,"Lat:12.391, Long:35.783",evening,TRUE,off,69,TRUE,FALSE,FALSE
+170,lying down,sitting,"Lat:38.0531, Long:41.6586",afternoon,TRUE,off,59,TRUE,TRUE,TRUE
+150,lying down,sleeping,"Lat:15.0331, Long:19.307",night,FALSE,idle,84,TRUE,FALSE,TRUE
+138,lying down,sitting,"Lat:49.267, Long:41.5425",night,FALSE,off,50,TRUE,TRUE,FALSE
+140,lying down,walking,"Lat:40.2679, Long:42.221",evening,TRUE,off,64,TRUE,FALSE,TRUE
+114,lying down,walking,"Lat:27.5488, Long:17.7186",night,FALSE,off,41,TRUE,TRUE,TRUE
+81,sitting,sleeping,"Lat:37.57, Long:24.3267",afternoon,FALSE,active,96,FALSE,TRUE,TRUE
+138,lying down,eating,"Lat:15.3893, Long:45.9465",morning,TRUE,idle,78,FALSE,FALSE,TRUE
+77,sitting,sitting,"Lat:29.4121, Long:27.5",afternoon,TRUE,off,46,FALSE,FALSE,TRUE
+160,sitting,running,"Lat:21.7886, Long:37.8815",night,FALSE,idle,57,FALSE,FALSE,TRUE
+86,standing,sitting,"Lat:17.591, Long:17.4651",afternoon,TRUE,idle,81,TRUE,TRUE,TRUE
+164,standing,studying,"Lat:23.9066, Long:39.2961",night,FALSE,off,37,FALSE,FALSE,TRUE
+86,standing,exercising,"Lat:21.013, Long:43.254",evening,TRUE,off,58,FALSE,FALSE,FALSE
+163,sitting,walking,"Lat:46.579, Long:32.1808",night,FALSE,idle,80,FALSE,TRUE,FALSE
+67,lying down,running,"Lat:12.7551, Long:16.201",morning,TRUE,idle,53,FALSE,FALSE,TRUE
+132,lying down,walking,"Lat:21.8269, Long:20.534",afternoon,TRUE,active,39,FALSE,TRUE,FALSE
+104,sitting,sitting,"Lat:24.6845, Long:10.0288",evening,FALSE,active,89,TRUE,TRUE,FALSE
+128,standing,sleeping,"Lat:35.521, Long:25.1617",night,TRUE,active,91,FALSE,TRUE,FALSE
+95,standing,running,"Lat:17.4214, Long:10.7488",afternoon,FALSE,active,70,FALSE,TRUE,TRUE
+136,sitting,eating,"Lat:44.2732, Long:41.0407",afternoon,TRUE,active,81,FALSE,TRUE,FALSE
+128,standing,exercising,"Lat:19.5515, Long:38.8401",afternoon,TRUE,idle,78,TRUE,TRUE,FALSE
+81,sitting,sleeping,"Lat:36.3316, Long:31.5583",evening,TRUE,off,51,TRUE,FALSE,TRUE
+101,standing,eating,"Lat:25.4996, Long:30.9628",night,TRUE,off,36,FALSE,TRUE,FALSE
+150,sitting,exercising,"Lat:29.902, Long:32.0587",night,FALSE,off,77,FALSE,TRUE,FALSE
+97,lying down,sitting,"Lat:34.5216, Long:22.904",evening,FALSE,active,84,TRUE,TRUE,FALSE
+97,lying down,studying,"Lat:35.6362, Long:14.4186",morning,TRUE,active,54,FALSE,TRUE,TRUE
+133,lying down,eating,"Lat:30.928, Long:12.6672",afternoon,TRUE,off,64,TRUE,FALSE,FALSE
+94,sitting,sleeping,"Lat:43.4077, Long:15.191",night,TRUE,off,43,FALSE,FALSE,FALSE
+169,standing,sleeping,"Lat:44.9397, Long:18.0832",evening,FALSE,off,43,TRUE,TRUE,FALSE
+125,standing,sitting,"Lat:29.4148, Long:13.9501",evening,TRUE,idle,39,FALSE,TRUE,TRUE
+175,standing,running,"Lat:32.8405, Long:43.452",afternoon,FALSE,idle,76,TRUE,FALSE,FALSE
+146,standing,eating,"Lat:36.3169, Long:31.0329",evening,FALSE,off,72,FALSE,TRUE,FALSE
+164,standing,exercising,"Lat:38.0526, Long:20.2375",afternoon,TRUE,off,33,TRUE,TRUE,FALSE
+72,lying down,sitting,"Lat:24.6542, Long:34.2381",night,TRUE,active,60,FALSE,FALSE,FALSE
+77,sitting,sleeping,"Lat:12.835, Long:47.2084",afternoon,TRUE,off,66,FALSE,TRUE,TRUE
+156,standing,walking,"Lat:18.3495, Long:29.6562",morning,TRUE,active,50,FALSE,FALSE,FALSE
+160,sitting,walking,"Lat:45.5907, Long:13.1983",afternoon,FALSE,idle,99,TRUE,FALSE,FALSE
+112,standing,sleeping,"Lat:42.0408, Long:12.428",afternoon,FALSE,idle,43,TRUE,TRUE,TRUE
+177,sitting,running,"Lat:32.3208, Long:47.5298",morning,FALSE,off,38,FALSE,FALSE,FALSE
+67,sitting,eating,"Lat:26.6381, Long:24.7627",afternoon,TRUE,off,57,TRUE,TRUE,FALSE
+95,sitting,sleeping,"Lat:38.3374, Long:42.9457",evening,FALSE,idle,31,FALSE,FALSE,TRUE
+170,sitting,walking,"Lat:20.6326, Long:11.6261",night,TRUE,idle,69,FALSE,FALSE,TRUE
+143,lying down,studying,"Lat:12.8155, Long:22.1562",night,TRUE,off,54,TRUE,TRUE,TRUE
+76,sitting,sleeping,"Lat:47.7841, Long:48.4235",night,FALSE,active,100,TRUE,TRUE,TRUE
+149,standing,sleeping,"Lat:13.8848, Long:39.0069",night,FALSE,active,55,TRUE,FALSE,FALSE
+170,lying down,studying,"Lat:31.2664, Long:17.5784",morning,FALSE,idle,34,FALSE,TRUE,TRUE
+76,lying down,running,"Lat:31.0477, Long:19.9505",afternoon,FALSE,active,60,FALSE,TRUE,TRUE
+91,sitting,sitting,"Lat:35.013, Long:17.1559",afternoon,TRUE,off,64,FALSE,FALSE,FALSE
+78,standing,walking,"Lat:39.9678, Long:26.6074",evening,FALSE,off,40,TRUE,FALSE,TRUE
+151,sitting,walking,"Lat:14.2206, Long:35.545",afternoon,TRUE,active,35,FALSE,FALSE,FALSE
+101,sitting,exercising,"Lat:24.3185, Long:28.3488",morning,FALSE,idle,91,FALSE,FALSE,FALSE
+166,sitting,sitting,"Lat:36.6097, Long:45.313",evening,FALSE,off,35,FALSE,TRUE,FALSE
+91,standing,sitting,"Lat:16.6724, Long:17.2159",evening,TRUE,active,36,TRUE,FALSE,FALSE
+157,sitting,sitting,"Lat:26.0623, Long:23.5005",afternoon,TRUE,idle,70,FALSE,FALSE,TRUE
+167,standing,sitting,"Lat:16.3271, Long:49.9373",morning,TRUE,off,41,FALSE,FALSE,TRUE
+146,sitting,walking,"Lat:27.7205, Long:24.093",night,TRUE,off,69,FALSE,FALSE,FALSE
+110,sitting,eating,"Lat:22.6062, Long:49.6585",morning,TRUE,off,31,TRUE,FALSE,TRUE
+122,sitting,sleeping,"Lat:22.9862, Long:24.8688",morning,TRUE,idle,75,FALSE,TRUE,TRUE
+78,sitting,sleeping,"Lat:40.5674, Long:27.2235",morning,TRUE,active,66,TRUE,TRUE,TRUE
+133,standing,studying,"Lat:39.0347, Long:34.3365",evening,FALSE,off,80,FALSE,FALSE,TRUE
+140,sitting,sleeping,"Lat:32.5258, Long:18.5571",evening,FALSE,off,94,FALSE,TRUE,TRUE
+94,lying down,eating,"Lat:40.6283, Long:47.0459",morning,FALSE,off,54,FALSE,TRUE,FALSE
+140,standing,eating,"Lat:20.1636, Long:48.4661",night,FALSE,off,70,TRUE,FALSE,TRUE
+113,standing,exercising,"Lat:27.9, Long:25.8836",evening,FALSE,off,80,TRUE,FALSE,TRUE
+108,lying down,running,"Lat:39.0525, Long:49.3183",morning,TRUE,active,75,TRUE,FALSE,FALSE
+117,lying down,running,"Lat:33.8305, Long:30.7044",night,TRUE,active,46,TRUE,TRUE,TRUE
+69,standing,exercising,"Lat:49.7365, Long:22.0737",afternoon,TRUE,off,42,TRUE,FALSE,TRUE
+141,standing,sitting,"Lat:22.0134, Long:18.8755",afternoon,TRUE,active,72,TRUE,FALSE,FALSE
+161,lying down,studying,"Lat:44.2288, Long:10.8681",morning,TRUE,active,82,TRUE,TRUE,TRUE
+172,sitting,walking,"Lat:42.8776, Long:37.5888",morning,TRUE,off,94,FALSE,TRUE,TRUE
+158,lying down,exercising,"Lat:21.0383, Long:32.1465",evening,FALSE,off,42,FALSE,FALSE,TRUE
+71,sitting,sleeping,"Lat:32.2529, Long:47.0369",night,FALSE,active,94,FALSE,TRUE,TRUE
+111,lying down,sleeping,"Lat:16.1886, Long:11.5095",morning,FALSE,active,49,TRUE,FALSE,TRUE
+125,standing,walking,"Lat:24.2262, Long:15.5363",afternoon,FALSE,off,33,TRUE,FALSE,FALSE
+155,lying down,running,"Lat:24.6833, Long:33.2862",morning,TRUE,idle,78,TRUE,TRUE,TRUE
+95,standing,exercising,"Lat:19.3198, Long:42.443",evening,TRUE,idle,91,TRUE,TRUE,FALSE
+148,sitting,sitting,"Lat:13.6762, Long:25.9919",evening,FALSE,active,34,FALSE,TRUE,TRUE
+179,lying down,studying,"Lat:46.7153, Long:39.3706",night,FALSE,active,67,FALSE,FALSE,FALSE
+172,sitting,eating,"Lat:38.9432, Long:41.7162",afternoon,FALSE,active,50,TRUE,TRUE,FALSE
+107,lying down,running,"Lat:16.9161, Long:43.0282",night,FALSE,off,49,TRUE,FALSE,FALSE
+118,lying down,studying,"Lat:37.5838, Long:33.0493",afternoon,FALSE,active,89,FALSE,FALSE,FALSE
+122,sitting,sitting,"Lat:46.3062, Long:33.8092",afternoon,TRUE,off,40,TRUE,FALSE,FALSE
+101,lying down,sleeping,"Lat:22.0157, Long:39.2316",morning,TRUE,active,41,TRUE,FALSE,FALSE
+134,standing,exercising,"Lat:33.0513, Long:13.1391",afternoon,TRUE,active,59,TRUE,TRUE,FALSE
+60,sitting,sitting,"Lat:12.2369, Long:40.8361",afternoon,TRUE,off,57,FALSE,FALSE,TRUE
+171,sitting,running,"Lat:23.9172, Long:42.6857",evening,TRUE,idle,48,FALSE,TRUE,FALSE
+159,standing,sleeping,"Lat:26.6609, Long:44.7132",night,FALSE,active,50,TRUE,FALSE,TRUE
+168,sitting,eating,"Lat:44.7915, Long:19.0687",night,FALSE,active,94,TRUE,TRUE,TRUE
+153,lying down,eating,"Lat:36.1112, Long:34.0921",evening,TRUE,active,96,FALSE,TRUE,FALSE
+71,standing,sitting,"Lat:10.4574, Long:41.0967",morning,TRUE,off,96,TRUE,FALSE,FALSE
+153,lying down,sleeping,"Lat:25.2995, Long:22.1913",night,TRUE,idle,73,FALSE,FALSE,TRUE
+118,lying down,eating,"Lat:11.6473, Long:31.5972",evening,TRUE,idle,87,FALSE,FALSE,TRUE
+141,lying down,sleeping,"Lat:15.9832, Long:30.0961",morning,FALSE,off,46,TRUE,FALSE,TRUE
+145,lying down,studying,"Lat:18.8319, Long:12.0208",evening,TRUE,active,73,TRUE,TRUE,FALSE
+149,lying down,studying,"Lat:39.2631, Long:25.7153",night,FALSE,idle,67,TRUE,TRUE,TRUE
+105,lying down,running,"Lat:27.8246, Long:33.8053",night,FALSE,off,76,FALSE,FALSE,TRUE
+168,standing,sitting,"Lat:30.1892, Long:18.8834",afternoon,FALSE,active,85,FALSE,FALSE,FALSE
+68,standing,exercising,"Lat:21.5913, Long:25.7729",evening,FALSE,active,35,FALSE,TRUE,TRUE
+161,sitting,walking,"Lat:15.2876, Long:13.3018",afternoon,FALSE,idle,79,FALSE,FALSE,TRUE
+128,standing,sitting,"Lat:32.8576, Long:11.9724",evening,FALSE,active,60,TRUE,TRUE,FALSE
+110,standing,sleeping,"Lat:25.9677, Long:13.4032",night,FALSE,off,56,TRUE,TRUE,TRUE
+87,standing,running,"Lat:30.0729, Long:40.953",evening,TRUE,idle,39,TRUE,FALSE,FALSE
+114,standing,running,"Lat:15.215, Long:15.3948",evening,TRUE,off,49,FALSE,FALSE,FALSE
+165,standing,walking,"Lat:32.3718, Long:29.5144",morning,FALSE,off,93,TRUE,FALSE,TRUE
+87,standing,eating,"Lat:36.0899, Long:17.844",morning,TRUE,idle,42,TRUE,FALSE,TRUE
+123,sitting,sleeping,"Lat:34.6399, Long:39.4267",morning,FALSE,active,31,TRUE,FALSE,FALSE
+94,standing,sleeping,"Lat:19.8498, Long:12.8658",afternoon,TRUE,off,48,TRUE,TRUE,TRUE
+101,lying down,running,"Lat:41.0709, Long:22.9365",evening,TRUE,idle,69,TRUE,FALSE,TRUE
+166,sitting,exercising,"Lat:46.9655, Long:13.5838",night,TRUE,off,100,TRUE,FALSE,FALSE
+96,standing,running,"Lat:36.8699, Long:26.9416",evening,TRUE,idle,41,TRUE,FALSE,TRUE
+103,lying down,walking,"Lat:23.9323, Long:22.8295",evening,FALSE,off,93,TRUE,FALSE,FALSE
+130,standing,exercising,"Lat:33.7551, Long:10.9683",morning,TRUE,idle,42,FALSE,FALSE,TRUE
+133,lying down,exercising,"Lat:22.1928, Long:49.5061",afternoon,TRUE,off,88,FALSE,FALSE,TRUE
+76,sitting,eating,"Lat:34.6488, Long:49.6064",night,FALSE,off,70,TRUE,TRUE,TRUE
+132,sitting,walking,"Lat:27.6884, Long:15.8327",night,FALSE,off,51,FALSE,TRUE,FALSE
+169,lying down,eating,"Lat:11.7951, Long:42.7269",morning,FALSE,active,67,TRUE,TRUE,TRUE
+122,standing,exercising,"Lat:17.9874, Long:24.9528",night,TRUE,off,50,FALSE,FALSE,FALSE
+160,standing,studying,"Lat:40.3094, Long:44.1106",evening,FALSE,active,38,TRUE,FALSE,FALSE
+103,sitting,eating,"Lat:14.4949, Long:12.1815",evening,TRUE,off,65,TRUE,FALSE,TRUE
+174,lying down,running,"Lat:47.9576, Long:47.0692",morning,TRUE,active,76,FALSE,FALSE,TRUE
+147,sitting,walking,"Lat:44.7501, Long:42.8054",afternoon,FALSE,active,75,FALSE,TRUE,FALSE
+157,lying down,sleeping,"Lat:10.5493, Long:37.7518",evening,TRUE,active,41,FALSE,TRUE,TRUE
+66,sitting,eating,"Lat:14.4511, Long:28.0025",afternoon,TRUE,active,39,TRUE,TRUE,FALSE
+65,sitting,exercising,"Lat:10.9099, Long:18.3604",afternoon,FALSE,active,52,TRUE,FALSE,TRUE
+72,lying down,exercising,"Lat:31.5202, Long:18.1521",night,TRUE,idle,88,FALSE,TRUE,FALSE
+140,sitting,eating,"Lat:30.9306, Long:20.3463",evening,TRUE,active,63,FALSE,TRUE,FALSE
+160,standing,studying,"Lat:29.3211, Long:39.1969",night,TRUE,active,90,FALSE,TRUE,TRUE
+167,lying down,exercising,"Lat:15.6539, Long:37.9502",morning,FALSE,off,62,TRUE,FALSE,FALSE
+118,lying down,eating,"Lat:10.7355, Long:33.3202",evening,FALSE,off,86,TRUE,TRUE,TRUE
+62,lying down,running,"Lat:36.5411, Long:11.7393",morning,TRUE,active,47,TRUE,TRUE,TRUE
+75,lying down,exercising,"Lat:16.8128, Long:21.3605",night,FALSE,off,45,FALSE,FALSE,FALSE
+178,sitting,exercising,"Lat:41.5675, Long:34.7186",night,TRUE,idle,92,TRUE,TRUE,FALSE
+169,standing,walking,"Lat:12.1234, Long:36.1903",night,TRUE,idle,35,TRUE,FALSE,TRUE
+80,sitting,running,"Lat:10.3334, Long:25.5458",evening,TRUE,active,76,FALSE,FALSE,FALSE
+116,standing,studying,"Lat:20.8524, Long:44.0833",night,TRUE,off,66,TRUE,FALSE,FALSE
+118,standing,exercising,"Lat:36.404, Long:44.5713",morning,FALSE,off,81,TRUE,TRUE,TRUE
+60,lying down,sitting,"Lat:10.7631, Long:44.6964",afternoon,TRUE,idle,82,FALSE,FALSE,FALSE
+114,lying down,running,"Lat:35.9764, Long:19.2467",evening,TRUE,active,46,TRUE,TRUE,FALSE
+85,lying down,running,"Lat:25.228, Long:49.0645",morning,FALSE,off,86,TRUE,TRUE,TRUE
+148,standing,running,"Lat:13.9841, Long:22.6182",evening,TRUE,idle,76,FALSE,TRUE,FALSE
+176,standing,running,"Lat:44.6709, Long:31.2624",night,FALSE,idle,95,FALSE,TRUE,FALSE
+76,lying down,walking,"Lat:17.4567, Long:30.026",evening,TRUE,idle,70,FALSE,FALSE,TRUE
+172,standing,eating,"Lat:28.3195, Long:47.054",night,TRUE,off,77,FALSE,FALSE,TRUE
+143,sitting,sitting,"Lat:10.8595, Long:19.8957",morning,TRUE,active,40,TRUE,TRUE,TRUE
+98,lying down,sleeping,"Lat:31.1766, Long:23.3428",morning,TRUE,idle,82,TRUE,TRUE,FALSE
+80,sitting,running,"Lat:25.736, Long:16.2802",afternoon,TRUE,idle,94,FALSE,TRUE,TRUE
+171,sitting,sleeping,"Lat:23.8712, Long:24.0765",night,FALSE,active,87,TRUE,TRUE,FALSE
+179,sitting,eating,"Lat:35.0092, Long:19.4482",afternoon,TRUE,idle,63,TRUE,FALSE,FALSE
+172,sitting,walking,"Lat:49.1298, Long:30.0501",morning,TRUE,off,35,FALSE,TRUE,FALSE
+95,lying down,sitting,"Lat:42.4757, Long:35.0317",night,TRUE,idle,37,FALSE,TRUE,TRUE
+71,sitting,studying,"Lat:45.1471, Long:45.6161",afternoon,FALSE,off,61,TRUE,TRUE,TRUE
+143,lying down,studying,"Lat:42.5943, Long:11.1786",evening,TRUE,active,31,TRUE,FALSE,FALSE
+106,lying down,studying,"Lat:32.1976, Long:21.2078",evening,FALSE,off,49,FALSE,TRUE,FALSE
+92,sitting,exercising,"Lat:16.0683, Long:45.887",morning,TRUE,active,43,FALSE,FALSE,FALSE
+70,standing,studying,"Lat:36.2773, Long:13.5118",morning,FALSE,active,67,TRUE,TRUE,FALSE
+107,standing,studying,"Lat:25.2883, Long:48.4242",afternoon,FALSE,off,78,TRUE,FALSE,FALSE
+145,sitting,sitting,"Lat:34.4979, Long:35.021",afternoon,TRUE,off,50,FALSE,TRUE,FALSE
+175,sitting,running,"Lat:19.0971, Long:19.6144",afternoon,FALSE,idle,81,FALSE,FALSE,FALSE
+143,standing,studying,"Lat:16.11, Long:48.8215",night,FALSE,off,39,FALSE,FALSE,TRUE
+81,lying down,exercising,"Lat:46.3894, Long:23.1714",evening,TRUE,off,58,TRUE,TRUE,TRUE
+66,lying down,running,"Lat:31.6894, Long:18.2703",night,FALSE,off,79,FALSE,FALSE,TRUE
+110,lying down,sleeping,"Lat:15.5431, Long:31.6542",night,TRUE,active,89,TRUE,FALSE,FALSE
+140,lying down,running,"Lat:42.0042, Long:44.5035",afternoon,TRUE,off,41,TRUE,FALSE,TRUE
+99,sitting,exercising,"Lat:22.3599, Long:38.2055",evening,TRUE,idle,74,TRUE,TRUE,FALSE
+152,standing,exercising,"Lat:30.9522, Long:15.4101",afternoon,TRUE,off,89,FALSE,TRUE,TRUE
+149,sitting,sleeping,"Lat:49.8274, Long:49.0311",evening,TRUE,off,89,TRUE,FALSE,FALSE
+156,sitting,running,"Lat:15.8061, Long:47.3212",evening,TRUE,off,98,TRUE,TRUE,FALSE
+89,lying down,eating,"Lat:46.6845, Long:22.6998",afternoon,FALSE,off,89,FALSE,FALSE,TRUE
+114,standing,exercising,"Lat:32.2936, Long:47.9441",morning,FALSE,off,43,TRUE,TRUE,FALSE
+143,standing,sleeping,"Lat:14.7355, Long:22.7039",night,FALSE,active,40,TRUE,FALSE,FALSE
+71,lying down,running,"Lat:45.1855, Long:39.0832",evening,FALSE,idle,53,FALSE,FALSE,FALSE
+150,sitting,exercising,"Lat:40.6174, Long:45.2053",afternoon,TRUE,active,43,TRUE,FALSE,TRUE
+72,sitting,eating,"Lat:26.5616, Long:26.4501",night,TRUE,idle,80,FALSE,FALSE,TRUE
+60,sitting,running,"Lat:27.7202, Long:47.3507",night,TRUE,idle,85,TRUE,FALSE,TRUE
+87,standing,sitting,"Lat:45.7652, Long:47.33",afternoon,FALSE,idle,55,FALSE,TRUE,TRUE
+121,sitting,sleeping,"Lat:20.9518, Long:41.1643",morning,TRUE,active,81,TRUE,FALSE,TRUE
+69,sitting,running,"Lat:14.2709, Long:17.3899",morning,FALSE,off,72,FALSE,FALSE,TRUE
+76,sitting,sitting,"Lat:40.4979, Long:34.4793",afternoon,TRUE,active,38,TRUE,TRUE,FALSE
+135,sitting,eating,"Lat:20.6745, Long:32.6817",morning,TRUE,active,70,TRUE,TRUE,FALSE
+88,sitting,exercising,"Lat:19.2365, Long:19.2873",night,FALSE,idle,73,TRUE,TRUE,FALSE
+126,lying down,sitting,"Lat:37.4951, Long:24.3705",afternoon,TRUE,active,92,FALSE,TRUE,TRUE
+147,lying down,sleeping,"Lat:37.5257, Long:29.0641",evening,FALSE,off,57,TRUE,FALSE,FALSE
+116,standing,running,"Lat:30.093, Long:34.1885",afternoon,TRUE,active,90,FALSE,FALSE,FALSE
+61,standing,sitting,"Lat:38.4808, Long:24.9584",morning,TRUE,off,44,FALSE,FALSE,FALSE
+61,standing,eating,"Lat:44.0852, Long:29.6578",night,FALSE,off,65,FALSE,TRUE,TRUE
+149,sitting,studying,"Lat:15.5005, Long:17.7304",night,TRUE,idle,88,FALSE,FALSE,FALSE
+103,lying down,studying,"Lat:11.2892, Long:40.5816",evening,TRUE,active,34,TRUE,TRUE,FALSE
+164,sitting,studying,"Lat:10.6006, Long:20.7943",afternoon,FALSE,idle,99,TRUE,TRUE,TRUE
+75,sitting,eating,"Lat:26.5218, Long:39.6947",morning,FALSE,off,49,TRUE,TRUE,TRUE
+170,sitting,exercising,"Lat:49.5297, Long:40.3111",evening,FALSE,active,90,TRUE,FALSE,TRUE
+114,lying down,running,"Lat:12.6455, Long:47.0841",afternoon,FALSE,idle,48,TRUE,TRUE,TRUE
+148,sitting,studying,"Lat:49.4251, Long:44.6852",morning,TRUE,idle,57,FALSE,TRUE,FALSE
+76,lying down,walking,"Lat:29.5977, Long:22.9958",morning,FALSE,idle,70,TRUE,TRUE,TRUE
+121,lying down,sleeping,"Lat:28.3018, Long:19.8714",night,FALSE,active,34,FALSE,FALSE,FALSE
+69,standing,walking,"Lat:26.1947, Long:11.6731",night,FALSE,active,78,TRUE,FALSE,FALSE
+89,standing,walking,"Lat:39.4133, Long:25.215",night,FALSE,idle,37,FALSE,TRUE,TRUE
+109,sitting,exercising,"Lat:22.5159, Long:34.4602",morning,FALSE,active,76,FALSE,FALSE,FALSE
+71,standing,studying,"Lat:39.6987, Long:33.7522",afternoon,FALSE,active,85,TRUE,FALSE,FALSE
+153,sitting,eating,"Lat:31.0092, Long:45.0313",afternoon,FALSE,idle,90,FALSE,TRUE,FALSE
+163,lying down,eating,"Lat:41.4768, Long:30.826",afternoon,TRUE,active,57,FALSE,FALSE,FALSE
+73,sitting,eating,"Lat:28.0644, Long:43.0804",evening,TRUE,idle,36,TRUE,TRUE,FALSE
+73,lying down,sleeping,"Lat:11.6966, Long:49.8335",evening,TRUE,active,57,TRUE,FALSE,TRUE
+100,sitting,sitting,"Lat:30.7481, Long:25.8244",night,TRUE,active,32,FALSE,FALSE,FALSE
+107,standing,exercising,"Lat:39.4068, Long:32.308",night,FALSE,active,84,TRUE,FALSE,FALSE
+172,lying down,walking,"Lat:30.6451, Long:35.2259",afternoon,TRUE,off,64,FALSE,FALSE,TRUE
+98,standing,sitting,"Lat:11.9718, Long:21.6472",night,FALSE,off,62,FALSE,TRUE,FALSE
+77,standing,exercising,"Lat:25.9216, Long:22.1822",afternoon,TRUE,idle,52,TRUE,FALSE,FALSE
+108,sitting,eating,"Lat:43.1048, Long:28.4539",afternoon,FALSE,off,40,FALSE,FALSE,FALSE
+159,lying down,eating,"Lat:26.8985, Long:34.5254",evening,FALSE,idle,48,FALSE,TRUE,TRUE
+164,lying down,exercising,"Lat:12.1819, Long:30.6788",afternoon,FALSE,active,38,TRUE,TRUE,TRUE
+156,sitting,exercising,"Lat:15.6896, Long:43.1957",night,TRUE,off,65,TRUE,FALSE,FALSE
+171,standing,sitting,"Lat:28.0679, Long:38.9059",afternoon,FALSE,idle,81,TRUE,TRUE,FALSE
+77,lying down,running,"Lat:14.5269, Long:41.1492",night,FALSE,off,40,TRUE,FALSE,FALSE
+142,lying down,sleeping,"Lat:47.5137, Long:37.8446",afternoon,TRUE,off,68,TRUE,TRUE,TRUE
+146,standing,eating,"Lat:15.4123, Long:26.5424",morning,TRUE,idle,87,TRUE,FALSE,FALSE
+78,standing,sleeping,"Lat:28.0354, Long:17.1551",evening,TRUE,off,83,FALSE,TRUE,TRUE
+68,standing,walking,"Lat:33.6126, Long:38.5054",evening,FALSE,idle,97,TRUE,FALSE,FALSE
+127,standing,running,"Lat:18.0773, Long:28.1873",afternoon,FALSE,off,57,TRUE,TRUE,FALSE
+132,standing,running,"Lat:20.0033, Long:37.6687",night,FALSE,active,63,TRUE,TRUE,TRUE
+61,standing,running,"Lat:46.2865, Long:41.8594",afternoon,TRUE,active,53,TRUE,FALSE,FALSE
+138,standing,sleeping,"Lat:38.735, Long:14.9418",evening,TRUE,active,36,TRUE,TRUE,FALSE
+143,sitting,sleeping,"Lat:14.5666, Long:27.9759",night,FALSE,idle,41,TRUE,FALSE,TRUE
+81,standing,studying,"Lat:24.5177, Long:30.9527",morning,FALSE,idle,84,TRUE,FALSE,TRUE
+116,sitting,sleeping,"Lat:25.3635, Long:41.6427",morning,FALSE,active,73,FALSE,TRUE,FALSE
+104,lying down,sleeping,"Lat:30.4667, Long:47.9902",night,FALSE,idle,68,TRUE,FALSE,FALSE
+152,standing,running,"Lat:25.1471, Long:25.2243",afternoon,FALSE,off,51,FALSE,FALSE,FALSE
+87,sitting,sitting,"Lat:40.7304, Long:46.4901",evening,FALSE,off,55,TRUE,FALSE,TRUE
+140,sitting,walking,"Lat:32.6197, Long:36.3812",night,FALSE,off,74,FALSE,TRUE,FALSE
+155,sitting,exercising,"Lat:16.0036, Long:44.7527",afternoon,FALSE,off,83,FALSE,FALSE,TRUE
+79,lying down,exercising,"Lat:17.1547, Long:38.4819",night,FALSE,off,91,TRUE,FALSE,FALSE
+177,sitting,exercising,"Lat:26.7833, Long:22.3807",night,FALSE,idle,90,FALSE,FALSE,FALSE
+112,lying down,sitting,"Lat:40.7452, Long:27.8503",evening,FALSE,idle,98,TRUE,TRUE,FALSE
+138,standing,walking,"Lat:35.0581, Long:14.7022",morning,FALSE,off,50,FALSE,FALSE,FALSE
+147,lying down,studying,"Lat:15.2628, Long:18.1141",morning,TRUE,active,85,FALSE,FALSE,FALSE
+116,standing,exercising,"Lat:34.9024, Long:20.1244",morning,TRUE,idle,75,TRUE,FALSE,FALSE
+170,standing,eating,"Lat:28.3457, Long:44.2164",morning,FALSE,active,79,TRUE,FALSE,TRUE
+87,sitting,sleeping,"Lat:31.74, Long:10.23",evening,TRUE,off,31,TRUE,FALSE,TRUE
+71,sitting,walking,"Lat:45.3081, Long:19.5151",afternoon,FALSE,off,55,FALSE,TRUE,FALSE
+174,lying down,walking,"Lat:33.5545, Long:29.0285",night,TRUE,off,39,TRUE,TRUE,TRUE
+72,sitting,walking,"Lat:26.4061, Long:13.1762",evening,FALSE,active,48,FALSE,FALSE,TRUE
+77,standing,walking,"Lat:34.0041, Long:19.7885",morning,TRUE,off,71,FALSE,FALSE,TRUE
+156,sitting,sleeping,"Lat:31.8937, Long:34.7906",morning,FALSE,active,70,TRUE,TRUE,FALSE
+75,lying down,eating,"Lat:32.3019, Long:43.0101",evening,TRUE,active,31,FALSE,TRUE,FALSE
+135,lying down,sitting,"Lat:11.9568, Long:15.9302",night,FALSE,idle,49,FALSE,TRUE,TRUE
+153,sitting,walking,"Lat:36.1311, Long:11.4688",evening,TRUE,off,88,FALSE,FALSE,FALSE
+109,sitting,running,"Lat:44.1532, Long:36.6799",night,TRUE,off,48,FALSE,FALSE,TRUE
+104,standing,walking,"Lat:43.5206, Long:21.9377",evening,TRUE,idle,93,TRUE,TRUE,TRUE
+114,sitting,exercising,"Lat:46.8154, Long:11.9613",afternoon,TRUE,active,70,FALSE,FALSE,TRUE
+100,lying down,eating,"Lat:26.6783, Long:17.1299",morning,FALSE,off,44,FALSE,FALSE,TRUE
+161,lying down,sleeping,"Lat:36.8836, Long:34.4436",afternoon,TRUE,off,82,TRUE,TRUE,FALSE
+77,standing,eating,"Lat:37.6605, Long:33.7988",evening,TRUE,idle,63,TRUE,FALSE,FALSE
+91,sitting,running,"Lat:41.4923, Long:17.0968",afternoon,FALSE,off,96,FALSE,FALSE,TRUE
+95,standing,eating,"Lat:28.2135, Long:33.1587",night,TRUE,active,30,FALSE,TRUE,FALSE
+142,sitting,eating,"Lat:47.2592, Long:13.7251",evening,FALSE,off,87,FALSE,TRUE,FALSE
+70,standing,sleeping,"Lat:21.9718, Long:24.7428",night,FALSE,off,46,FALSE,FALSE,FALSE
+91,standing,studying,"Lat:25.1576, Long:12.7067",afternoon,FALSE,idle,87,TRUE,FALSE,TRUE
+130,lying down,exercising,"Lat:27.093, Long:32.0188",morning,FALSE,off,42,TRUE,FALSE,FALSE
+136,standing,sleeping,"Lat:21.7133, Long:15.3818",evening,TRUE,idle,34,TRUE,TRUE,TRUE
+136,standing,running,"Lat:37.7848, Long:20.9767",night,TRUE,active,57,TRUE,FALSE,FALSE
+152,lying down,sitting,"Lat:31.0821, Long:30.9858",afternoon,FALSE,idle,54,FALSE,FALSE,TRUE
+137,standing,exercising,"Lat:37.8332, Long:34.4821",evening,TRUE,idle,83,TRUE,FALSE,FALSE
+96,lying down,running,"Lat:14.3721, Long:39.1891",morning,FALSE,idle,99,TRUE,FALSE,TRUE
+159,standing,sitting,"Lat:35.1591, Long:49.4876",evening,FALSE,off,51,FALSE,FALSE,FALSE
+180,sitting,running,"Lat:29.3465, Long:37.5462",morning,FALSE,idle,78,TRUE,TRUE,TRUE
+148,lying down,walking,"Lat:47.3557, Long:49.4511",afternoon,FALSE,idle,57,TRUE,FALSE,TRUE
+63,sitting,exercising,"Lat:21.4875, Long:34.3538",night,FALSE,idle,74,TRUE,TRUE,TRUE
+168,lying down,sleeping,"Lat:22.6595, Long:31.0156",evening,TRUE,off,56,FALSE,FALSE,FALSE
+168,standing,studying,"Lat:49.801, Long:24.1541",evening,FALSE,off,54,FALSE,FALSE,TRUE
+144,lying down,sitting,"Lat:15.1885, Long:32.5054",night,TRUE,active,31,TRUE,FALSE,FALSE
+172,standing,sitting,"Lat:30.7882, Long:35.2743",evening,FALSE,idle,77,TRUE,TRUE,TRUE
+98,sitting,walking,"Lat:29.7002, Long:17.1963",evening,TRUE,off,76,FALSE,FALSE,TRUE
+86,standing,exercising,"Lat:34.3762, Long:38.3435",evening,TRUE,active,32,TRUE,FALSE,TRUE
+126,lying down,exercising,"Lat:49.1703, Long:10.0632",evening,TRUE,idle,68,FALSE,FALSE,TRUE
+137,standing,walking,"Lat:10.9595, Long:35.0184",night,FALSE,idle,69,FALSE,TRUE,FALSE
+125,lying down,running,"Lat:14.717, Long:43.9228",afternoon,TRUE,idle,94,FALSE,TRUE,TRUE
+84,standing,sitting,"Lat:41.9826, Long:49.9595",evening,FALSE,active,45,FALSE,FALSE,TRUE
+155,standing,sleeping,"Lat:26.5616, Long:23.3517",night,FALSE,off,93,TRUE,TRUE,TRUE
+110,sitting,running,"Lat:32.4166, Long:35.5001",afternoon,FALSE,active,88,TRUE,FALSE,FALSE
+97,lying down,walking,"Lat:10.4519, Long:18.0475",night,TRUE,active,82,FALSE,TRUE,TRUE
+142,sitting,sitting,"Lat:21.2651, Long:41.6078",morning,FALSE,off,82,FALSE,TRUE,TRUE
+66,lying down,studying,"Lat:22.3109, Long:30.2676",afternoon,TRUE,active,75,FALSE,TRUE,FALSE
+160,lying down,studying,"Lat:22.957, Long:10.2453",afternoon,FALSE,active,75,TRUE,TRUE,FALSE
+174,lying down,sitting,"Lat:37.4334, Long:23.6545",morning,FALSE,active,99,FALSE,TRUE,FALSE
+161,sitting,sleeping,"Lat:38.9759, Long:34.6397",afternoon,TRUE,off,84,FALSE,TRUE,TRUE
+90,sitting,exercising,"Lat:11.1647, Long:17.0252",afternoon,FALSE,active,96,FALSE,FALSE,FALSE
+123,sitting,sitting,"Lat:23.2206, Long:23.5175",morning,FALSE,active,72,TRUE,FALSE,TRUE
+109,sitting,exercising,"Lat:36.8989, Long:46.6465",night,TRUE,off,44,TRUE,FALSE,FALSE
+74,sitting,sleeping,"Lat:41.8902, Long:35.8261",evening,FALSE,idle,52,TRUE,FALSE,FALSE
+90,sitting,walking,"Lat:29.2598, Long:35.088",afternoon,TRUE,off,88,FALSE,FALSE,FALSE
+123,standing,sleeping,"Lat:45.6823, Long:31.4787",night,TRUE,idle,84,TRUE,TRUE,FALSE
+141,sitting,sleeping,"Lat:23.4044, Long:41.3596",night,FALSE,active,77,FALSE,FALSE,FALSE
+136,sitting,sitting,"Lat:26.5581, Long:39.7034",morning,TRUE,idle,52,TRUE,TRUE,FALSE
+69,lying down,eating,"Lat:43.4042, Long:21.9737",night,FALSE,off,100,FALSE,TRUE,FALSE
+127,lying down,sitting,"Lat:38.9986, Long:22.6201",morning,FALSE,off,50,TRUE,FALSE,FALSE
+173,lying down,studying,"Lat:31.4354, Long:18.3305",night,FALSE,off,99,FALSE,FALSE,TRUE
+61,sitting,walking,"Lat:37.4197, Long:41.9814",evening,TRUE,active,85,TRUE,TRUE,FALSE
+106,lying down,running,"Lat:45.5212, Long:24.1438",night,FALSE,idle,78,FALSE,TRUE,FALSE
+179,standing,sitting,"Lat:48.7845, Long:21.2184",night,FALSE,idle,66,FALSE,TRUE,TRUE
+100,standing,walking,"Lat:11.2469, Long:49.3448",night,FALSE,off,85,TRUE,FALSE,TRUE
+76,lying down,eating,"Lat:35.0604, Long:43.6962",morning,FALSE,off,66,TRUE,TRUE,FALSE
+109,lying down,walking,"Lat:32.8393, Long:25.5827",afternoon,FALSE,off,42,FALSE,FALSE,TRUE
+170,sitting,exercising,"Lat:33.8077, Long:44.5837",morning,TRUE,off,41,FALSE,FALSE,TRUE
+167,lying down,exercising,"Lat:40.0616, Long:38.2106",evening,TRUE,off,43,FALSE,FALSE,TRUE
+132,lying down,exercising,"Lat:22.58, Long:11.2651",morning,TRUE,active,41,TRUE,FALSE,FALSE
+113,lying down,studying,"Lat:26.5548, Long:29.8822",afternoon,TRUE,idle,32,TRUE,TRUE,FALSE
+106,lying down,sitting,"Lat:19.5057, Long:28.0763",evening,FALSE,active,82,FALSE,TRUE,TRUE
+129,sitting,eating,"Lat:48.0291, Long:18.6456",afternoon,FALSE,off,43,FALSE,FALSE,TRUE
+147,sitting,sitting,"Lat:22.0927, Long:14.4893",afternoon,FALSE,active,93,FALSE,TRUE,FALSE
+82,lying down,walking,"Lat:41.3978, Long:41.1116",evening,TRUE,off,99,FALSE,FALSE,TRUE
+157,standing,exercising,"Lat:46.5342, Long:27.751",afternoon,FALSE,active,42,FALSE,TRUE,FALSE
+120,sitting,exercising,"Lat:10.9974, Long:29.3065",morning,TRUE,off,86,TRUE,TRUE,FALSE
+158,standing,sitting,"Lat:30.0022, Long:17.6085",afternoon,FALSE,idle,94,FALSE,FALSE,TRUE
+69,sitting,studying,"Lat:46.9455, Long:39.2976",night,TRUE,off,34,FALSE,FALSE,FALSE
+62,sitting,studying,"Lat:30.9451, Long:41.0213",morning,FALSE,off,67,TRUE,TRUE,FALSE
+135,lying down,studying,"Lat:15.7318, Long:44.872",afternoon,TRUE,off,83,TRUE,TRUE,FALSE
+68,sitting,sitting,"Lat:42.8855, Long:47.521",night,FALSE,idle,57,TRUE,FALSE,FALSE
+61,sitting,eating,"Lat:37.0687, Long:15.3087",morning,FALSE,active,58,FALSE,FALSE,TRUE
+93,sitting,sitting,"Lat:38.9828, Long:28.3747",evening,FALSE,off,88,FALSE,TRUE,TRUE
+87,lying down,studying,"Lat:38.5471, Long:30.8938",morning,TRUE,off,100,TRUE,FALSE,TRUE
+65,lying down,sleeping,"Lat:10.1644, Long:47.2935",evening,TRUE,off,78,TRUE,FALSE,FALSE
+178,lying down,running,"Lat:37.4821, Long:33.7715",morning,TRUE,off,44,FALSE,TRUE,TRUE
+67,sitting,walking,"Lat:13.483, Long:28.675",night,TRUE,off,55,FALSE,FALSE,FALSE
+161,standing,exercising,"Lat:11.8456, Long:30.8231",evening,TRUE,active,90,FALSE,TRUE,FALSE
+110,standing,sleeping,"Lat:36.3594, Long:22.4992",morning,FALSE,off,45,TRUE,FALSE,TRUE
+124,lying down,running,"Lat:33.1024, Long:22.4857",evening,TRUE,idle,74,FALSE,TRUE,TRUE
+96,standing,eating,"Lat:45.6854, Long:22.8352",afternoon,TRUE,active,89,FALSE,FALSE,FALSE
+140,standing,sitting,"Lat:17.7018, Long:21.066",morning,TRUE,off,82,FALSE,FALSE,TRUE
+151,lying down,eating,"Lat:22.766, Long:27.6446",morning,TRUE,off,80,FALSE,TRUE,FALSE
+124,sitting,eating,"Lat:14.706, Long:15.9728",night,FALSE,active,30,TRUE,FALSE,FALSE
+158,lying down,walking,"Lat:20.9455, Long:10.6103",night,FALSE,active,77,TRUE,TRUE,TRUE
+113,sitting,sleeping,"Lat:34.9178, Long:30.5624",night,TRUE,active,58,FALSE,TRUE,FALSE
+114,lying down,walking,"Lat:18.2631, Long:24.0127",evening,TRUE,idle,94,FALSE,FALSE,FALSE
+149,standing,sitting,"Lat:22.7394, Long:15.6623",morning,FALSE,active,66,FALSE,TRUE,TRUE
+111,lying down,exercising,"Lat:38.1741, Long:21.3307",evening,TRUE,off,64,TRUE,FALSE,FALSE
+70,standing,exercising,"Lat:19.793, Long:12.8497",morning,FALSE,idle,63,FALSE,FALSE,TRUE
+141,lying down,running,"Lat:34.5305, Long:23.5496",night,TRUE,active,69,FALSE,FALSE,FALSE
+128,sitting,exercising,"Lat:27.7459, Long:15.203",evening,FALSE,idle,83,TRUE,FALSE,FALSE
+128,sitting,running,"Lat:28.8294, Long:37.0198",afternoon,TRUE,idle,60,FALSE,TRUE,FALSE
+138,sitting,running,"Lat:14.2371, Long:12.152",afternoon,TRUE,idle,30,TRUE,TRUE,FALSE
+79,sitting,eating,"Lat:27.0586, Long:17.1593",morning,FALSE,active,83,FALSE,TRUE,TRUE
+95,sitting,sleeping,"Lat:33.8449, Long:33.7102",evening,FALSE,idle,34,TRUE,TRUE,FALSE
+70,sitting,exercising,"Lat:43.447, Long:37.9746",evening,FALSE,active,31,FALSE,FALSE,TRUE
+99,lying down,running,"Lat:34.6526, Long:22.4976",morning,TRUE,idle,33,FALSE,TRUE,FALSE
+70,standing,eating,"Lat:42.6977, Long:38.5159",morning,TRUE,off,49,TRUE,TRUE,TRUE
+125,lying down,sleeping,"Lat:36.8348, Long:31.3394",night,TRUE,active,77,FALSE,FALSE,TRUE
+177,lying down,sleeping,"Lat:48.9473, Long:40.2297",morning,FALSE,off,96,TRUE,FALSE,FALSE
+86,lying down,studying,"Lat:28.6278, Long:15.2718",night,FALSE,active,70,TRUE,FALSE,TRUE
+163,standing,eating,"Lat:42.514, Long:46.7876",evening,TRUE,idle,72,FALSE,FALSE,TRUE
+79,sitting,sleeping,"Lat:28.731, Long:28.2234",afternoon,FALSE,idle,51,FALSE,FALSE,TRUE
+128,lying down,walking,"Lat:37.3791, Long:38.4086",afternoon,TRUE,idle,85,TRUE,FALSE,FALSE
+101,lying down,running,"Lat:28.6159, Long:19.2678",night,TRUE,idle,60,FALSE,TRUE,TRUE
+110,standing,sleeping,"Lat:18.9518, Long:44.4439",morning,TRUE,idle,80,TRUE,FALSE,TRUE
+135,lying down,sitting,"Lat:34.6777, Long:46.5145",morning,FALSE,active,54,FALSE,FALSE,TRUE
+141,lying down,sleeping,"Lat:25.6831, Long:37.9846",afternoon,FALSE,active,80,FALSE,FALSE,TRUE
+157,lying down,sleeping,"Lat:36.6072, Long:41.5511",afternoon,FALSE,off,36,FALSE,FALSE,TRUE
+166,sitting,studying,"Lat:45.2962, Long:28.1313",night,TRUE,off,84,FALSE,FALSE,TRUE
+143,lying down,exercising,"Lat:11.2106, Long:29.0134",night,FALSE,off,46,TRUE,TRUE,FALSE
+147,sitting,eating,"Lat:24.0576, Long:28.4497",evening,TRUE,idle,79,TRUE,FALSE,TRUE
+142,lying down,walking,"Lat:16.8321, Long:40.7177",afternoon,FALSE,active,52,TRUE,FALSE,FALSE
+68,sitting,sitting,"Lat:34.1776, Long:15.0958",morning,FALSE,idle,81,TRUE,TRUE,TRUE
+99,standing,studying,"Lat:14.1173, Long:42.7021",evening,TRUE,off,70,TRUE,TRUE,TRUE
+149,lying down,walking,"Lat:41.8703, Long:23.0348",night,TRUE,off,96,TRUE,FALSE,FALSE
+115,lying down,eating,"Lat:35.9781, Long:41.6972",night,TRUE,active,50,TRUE,FALSE,FALSE
+153,standing,sleeping,"Lat:31.3098, Long:26.0327",evening,FALSE,idle,85,TRUE,FALSE,FALSE
+168,sitting,exercising,"Lat:26.5377, Long:34.835",afternoon,TRUE,off,59,TRUE,TRUE,FALSE
+90,standing,eating,"Lat:31.918, Long:48.9557",evening,FALSE,idle,42,FALSE,TRUE,FALSE
+67,sitting,sitting,"Lat:25.3527, Long:23.6286",morning,TRUE,active,46,FALSE,FALSE,TRUE
+91,standing,walking,"Lat:42.5566, Long:33.6388",evening,FALSE,idle,94,TRUE,FALSE,FALSE
+71,lying down,studying,"Lat:41.3726, Long:27.4141",afternoon,FALSE,active,45,TRUE,TRUE,TRUE
+178,sitting,sleeping,"Lat:41.4931, Long:31.7811",night,FALSE,off,80,TRUE,TRUE,TRUE
+115,lying down,sleeping,"Lat:19.4462, Long:36.5045",night,FALSE,idle,63,FALSE,FALSE,FALSE
+74,lying down,running,"Lat:13.1158, Long:47.2345",night,TRUE,idle,100,FALSE,FALSE,FALSE
+118,standing,studying,"Lat:32.9675, Long:29.4652",night,TRUE,idle,50,TRUE,FALSE,TRUE
+138,lying down,sitting,"Lat:33.6865, Long:28.5163",evening,FALSE,idle,71,FALSE,FALSE,FALSE
+137,sitting,sleeping,"Lat:32.2035, Long:42.8809",night,FALSE,active,56,TRUE,FALSE,FALSE
+67,lying down,running,"Lat:17.047, Long:48.2353",morning,FALSE,active,41,TRUE,FALSE,FALSE
+99,standing,exercising,"Lat:12.7843, Long:14.3498",night,FALSE,idle,41,FALSE,TRUE,TRUE
+145,standing,walking,"Lat:42.5627, Long:40.8537",evening,FALSE,off,33,TRUE,TRUE,TRUE
+154,sitting,eating,"Lat:25.1564, Long:29.7718",afternoon,TRUE,active,85,TRUE,TRUE,FALSE
+144,standing,eating,"Lat:36.4066, Long:13.6213",night,FALSE,idle,31,FALSE,FALSE,FALSE
+154,lying down,sleeping,"Lat:42.6813, Long:45.4905",night,TRUE,idle,49,TRUE,FALSE,TRUE
+82,sitting,exercising,"Lat:46.1302, Long:35.4453",morning,TRUE,active,33,TRUE,FALSE,TRUE
+75,sitting,walking,"Lat:10.0074, Long:15.869",morning,FALSE,active,99,TRUE,TRUE,FALSE
+61,sitting,eating,"Lat:15.9687, Long:31.2502",evening,FALSE,idle,40,TRUE,FALSE,TRUE
+150,sitting,sleeping,"Lat:25.5993, Long:33.1173",night,FALSE,idle,78,FALSE,FALSE,FALSE
+77,sitting,walking,"Lat:17.8267, Long:37.2607",afternoon,TRUE,active,33,FALSE,TRUE,FALSE
+149,lying down,studying,"Lat:22.6639, Long:32.8111",afternoon,TRUE,active,46,FALSE,FALSE,TRUE
+61,sitting,walking,"Lat:46.5282, Long:22.182",night,FALSE,off,88,TRUE,TRUE,FALSE
+80,sitting,walking,"Lat:47.7333, Long:27.3891",morning,TRUE,off,75,FALSE,FALSE,TRUE
+123,standing,sleeping,"Lat:49.3032, Long:23.7706",evening,TRUE,active,53,FALSE,TRUE,TRUE
+104,sitting,sleeping,"Lat:13.5715, Long:10.3248",night,TRUE,idle,60,TRUE,TRUE,TRUE
+126,standing,exercising,"Lat:49.4569, Long:26.1679",night,FALSE,active,58,TRUE,FALSE,FALSE
+126,lying down,eating,"Lat:15.1022, Long:21.7674",morning,FALSE,idle,68,FALSE,TRUE,TRUE
+160,lying down,walking,"Lat:24.7689, Long:31.9554",night,TRUE,active,54,FALSE,TRUE,TRUE
+165,lying down,exercising,"Lat:12.1251, Long:38.1342",evening,TRUE,active,98,FALSE,TRUE,TRUE
+152,lying down,exercising,"Lat:42.8301, Long:24.3698",afternoon,FALSE,off,61,FALSE,FALSE,TRUE
+93,standing,studying,"Lat:44.4499, Long:44.6272",afternoon,FALSE,idle,78,FALSE,TRUE,TRUE
+81,sitting,sitting,"Lat:19.4096, Long:38.0889",evening,TRUE,active,63,FALSE,TRUE,FALSE
+107,standing,running,"Lat:25.7707, Long:22.7251",afternoon,FALSE,idle,36,FALSE,FALSE,FALSE
+76,lying down,walking,"Lat:25.3116, Long:25.2626",night,TRUE,idle,65,TRUE,FALSE,FALSE
+155,standing,eating,"Lat:31.8048, Long:36.4995",evening,TRUE,idle,40,TRUE,FALSE,TRUE
+159,lying down,studying,"Lat:28.9949, Long:17.5291",morning,FALSE,idle,48,FALSE,TRUE,FALSE
+171,sitting,walking,"Lat:25.3838, Long:46.9793",morning,FALSE,idle,32,TRUE,FALSE,TRUE
+94,lying down,running,"Lat:43.5985, Long:16.1707",morning,FALSE,idle,43,FALSE,FALSE,TRUE
+153,sitting,sitting,"Lat:49.8982, Long:36.8026",morning,TRUE,active,44,TRUE,FALSE,TRUE
+173,sitting,sitting,"Lat:15.3711, Long:12.8698",night,FALSE,off,88,TRUE,FALSE,FALSE
+75,standing,walking,"Lat:10.6283, Long:38.8536",night,TRUE,idle,45,TRUE,TRUE,TRUE
+158,standing,running,"Lat:29.4681, Long:27.4694",morning,TRUE,active,43,TRUE,FALSE,TRUE
+175,standing,exercising,"Lat:49.6087, Long:13.3865",night,FALSE,idle,48,FALSE,FALSE,FALSE
+63,standing,walking,"Lat:35.6897, Long:26.6342",evening,TRUE,off,66,FALSE,TRUE,TRUE
+102,sitting,sleeping,"Lat:28.2411, Long:41.5571",evening,TRUE,idle,63,TRUE,FALSE,TRUE
+163,sitting,eating,"Lat:34.1772, Long:27.0282",evening,FALSE,active,53,FALSE,FALSE,FALSE
+114,lying down,sitting,"Lat:17.1919, Long:30.3766",morning,FALSE,active,41,TRUE,FALSE,TRUE
+94,sitting,studying,"Lat:32.082, Long:28.0018",morning,FALSE,idle,39,TRUE,FALSE,FALSE
+127,standing,studying,"Lat:24.2123, Long:17.4316",morning,FALSE,off,93,FALSE,FALSE,TRUE
+68,sitting,studying,"Lat:34.1829, Long:33.1175",night,TRUE,idle,76,TRUE,TRUE,TRUE
+93,lying down,running,"Lat:43.8722, Long:19.47",afternoon,FALSE,active,56,TRUE,TRUE,FALSE
+151,standing,running,"Lat:30.0692, Long:26.4335",afternoon,TRUE,idle,80,TRUE,FALSE,TRUE
+133,standing,exercising,"Lat:31.8467, Long:24.6788",night,TRUE,off,42,FALSE,FALSE,TRUE
+140,sitting,sitting,"Lat:49.1293, Long:32.726",morning,FALSE,active,92,TRUE,TRUE,TRUE
+69,sitting,running,"Lat:38.1953, Long:14.5266",morning,TRUE,active,32,TRUE,FALSE,FALSE
+123,lying down,exercising,"Lat:29.2613, Long:37.6199",night,TRUE,active,82,FALSE,FALSE,FALSE
+118,standing,sleeping,"Lat:15.6835, Long:39.2517",evening,FALSE,idle,39,FALSE,TRUE,TRUE
+125,sitting,exercising,"Lat:49.3432, Long:49.3467",evening,FALSE,active,92,FALSE,TRUE,FALSE
+106,lying down,eating,"Lat:41.1548, Long:28.5975",night,FALSE,active,39,FALSE,FALSE,TRUE
+67,standing,sitting,"Lat:13.1294, Long:45.5966",night,FALSE,idle,56,TRUE,FALSE,TRUE
+123,standing,eating,"Lat:13.5379, Long:28.8981",evening,TRUE,idle,83,FALSE,FALSE,TRUE
+169,sitting,exercising,"Lat:39.6674, Long:48.4164",evening,TRUE,off,78,TRUE,FALSE,FALSE
+132,sitting,sitting,"Lat:13.1233, Long:35.3475",afternoon,TRUE,idle,70,FALSE,TRUE,TRUE
+81,standing,sleeping,"Lat:41.9239, Long:22.5",afternoon,FALSE,active,87,TRUE,TRUE,TRUE
+107,standing,sleeping,"Lat:12.111, Long:23.7418",afternoon,TRUE,active,50,FALSE,TRUE,FALSE
+80,lying down,sleeping,"Lat:41.1411, Long:28.7548",morning,FALSE,off,53,TRUE,TRUE,FALSE
+92,standing,walking,"Lat:30.5065, Long:28.7693",evening,FALSE,active,68,FALSE,TRUE,FALSE
+158,sitting,studying,"Lat:39.3526, Long:26.8406",morning,TRUE,idle,31,FALSE,FALSE,FALSE
+73,standing,exercising,"Lat:48.4233, Long:41.9289",night,TRUE,off,52,TRUE,TRUE,TRUE
+174,standing,studying,"Lat:21.5683, Long:11.413",morning,TRUE,idle,34,TRUE,FALSE,TRUE
+133,lying down,sitting,"Lat:46.9146, Long:39.977",morning,TRUE,active,45,FALSE,TRUE,FALSE
+146,sitting,sleeping,"Lat:39.0789, Long:32.5483",night,TRUE,idle,73,FALSE,TRUE,TRUE
+152,lying down,exercising,"Lat:12.4567, Long:28.9264",morning,FALSE,idle,74,FALSE,FALSE,FALSE
+74,sitting,eating,"Lat:16.7632, Long:12.0648",morning,TRUE,off,91,TRUE,TRUE,TRUE
+89,sitting,running,"Lat:49.6146, Long:42.3558",afternoon,FALSE,idle,99,FALSE,FALSE,TRUE
+154,sitting,sleeping,"Lat:34.9727, Long:21.4726",night,TRUE,off,30,TRUE,TRUE,FALSE
+125,sitting,sitting,"Lat:13.3004, Long:30.2238",night,TRUE,off,50,FALSE,FALSE,TRUE
+60,sitting,studying,"Lat:44.0578, Long:21.114",night,TRUE,active,96,FALSE,TRUE,FALSE
+65,standing,walking,"Lat:15.3016, Long:21.2389",night,FALSE,idle,62,TRUE,TRUE,TRUE
+169,standing,sleeping,"Lat:44.3143, Long:10.5681",evening,TRUE,idle,45,FALSE,FALSE,FALSE
+170,lying down,studying,"Lat:14.462, Long:16.9846",evening,FALSE,off,54,FALSE,FALSE,TRUE
+61,standing,sitting,"Lat:33.6708, Long:16.0454",night,FALSE,off,33,TRUE,TRUE,FALSE
+91,lying down,eating,"Lat:27.8661, Long:42.3136",evening,TRUE,off,98,TRUE,TRUE,TRUE
+65,sitting,eating,"Lat:20.4501, Long:38.031",morning,TRUE,idle,32,TRUE,FALSE,TRUE
+120,standing,sitting,"Lat:29.3967, Long:41.9749",afternoon,TRUE,active,96,FALSE,TRUE,FALSE
+106,sitting,studying,"Lat:44.4806, Long:23.7139",afternoon,TRUE,active,95,TRUE,FALSE,FALSE
+109,lying down,eating,"Lat:13.3761, Long:15.8028",morning,FALSE,active,49,FALSE,TRUE,TRUE
+177,standing,studying,"Lat:47.3577, Long:16.166",afternoon,TRUE,active,57,FALSE,FALSE,FALSE
+79,standing,sleeping,"Lat:29.8379, Long:49.7434",morning,TRUE,active,76,FALSE,TRUE,FALSE
+82,lying down,running,"Lat:40.8147, Long:19.5179",morning,FALSE,active,44,FALSE,TRUE,TRUE
+179,standing,sleeping,"Lat:27.6074, Long:35.503",afternoon,FALSE,idle,57,TRUE,TRUE,FALSE
+169,lying down,walking,"Lat:18.4343, Long:39.3744",morning,FALSE,off,33,TRUE,FALSE,TRUE
+64,lying down,studying,"Lat:23.803, Long:35.6904",afternoon,TRUE,active,71,FALSE,FALSE,FALSE
+130,standing,walking,"Lat:40.2194, Long:14.6398",night,TRUE,off,47,FALSE,TRUE,FALSE
+162,standing,walking,"Lat:16.704, Long:25.9498",afternoon,TRUE,active,58,TRUE,FALSE,FALSE
+176,lying down,running,"Lat:22.0547, Long:39.846",afternoon,FALSE,active,40,FALSE,TRUE,FALSE
+151,sitting,sleeping,"Lat:40.0971, Long:31.3008",night,TRUE,off,46,TRUE,TRUE,FALSE
+154,sitting,exercising,"Lat:25.192, Long:38.2243",afternoon,TRUE,idle,64,TRUE,FALSE,TRUE
+143,standing,sitting,"Lat:28.9836, Long:15.806",morning,FALSE,idle,65,FALSE,TRUE,FALSE
+113,standing,walking,"Lat:44.8111, Long:10.4745",evening,TRUE,off,91,TRUE,FALSE,TRUE
+88,sitting,walking,"Lat:47.0889, Long:27.9528",night,TRUE,off,55,TRUE,TRUE,FALSE
+101,lying down,walking,"Lat:37.1397, Long:48.4705",afternoon,TRUE,active,41,TRUE,TRUE,TRUE
+91,lying down,walking,"Lat:37.3151, Long:11.6407",night,TRUE,idle,74,FALSE,FALSE,FALSE
+113,sitting,sitting,"Lat:46.7085, Long:35.497",night,FALSE,idle,100,FALSE,TRUE,FALSE
+177,standing,sleeping,"Lat:48.2473, Long:27.2714",morning,TRUE,idle,67,FALSE,TRUE,FALSE
+152,standing,exercising,"Lat:46.7217, Long:44.3342",morning,TRUE,idle,89,TRUE,TRUE,FALSE
+100,standing,eating,"Lat:23.3987, Long:20.6835",afternoon,FALSE,idle,93,TRUE,FALSE,FALSE
+94,sitting,running,"Lat:13.9311, Long:36.1737",afternoon,TRUE,active,85,TRUE,FALSE,FALSE
+165,sitting,exercising,"Lat:25.6462, Long:40.926",night,TRUE,idle,95,FALSE,FALSE,TRUE
+69,sitting,walking,"Lat:39.9636, Long:39.3725",night,TRUE,active,81,TRUE,TRUE,TRUE
+133,lying down,studying,"Lat:33.549, Long:17.797",night,TRUE,off,54,TRUE,FALSE,TRUE
+107,lying down,eating,"Lat:23.4963, Long:37.6111",morning,TRUE,active,62,TRUE,FALSE,TRUE
+75,lying down,sitting,"Lat:17.1967, Long:31.9045",night,TRUE,off,52,TRUE,TRUE,FALSE
+124,lying down,exercising,"Lat:36.9121, Long:43.2676",afternoon,TRUE,off,55,FALSE,TRUE,TRUE
+146,sitting,running,"Lat:10.4785, Long:13.908",afternoon,FALSE,active,65,FALSE,FALSE,FALSE
+175,sitting,studying,"Lat:14.1563, Long:27.8377",evening,TRUE,active,80,FALSE,FALSE,TRUE
+66,lying down,exercising,"Lat:18.7767, Long:21.3319",night,FALSE,idle,43,TRUE,TRUE,TRUE
+82,standing,studying,"Lat:17.7232, Long:10.948",morning,FALSE,active,69,FALSE,FALSE,TRUE
+88,sitting,studying,"Lat:13.6777, Long:47.5402",evening,TRUE,idle,51,TRUE,FALSE,FALSE
+162,sitting,walking,"Lat:36.2642, Long:43.4184",morning,TRUE,off,56,FALSE,TRUE,FALSE
+126,sitting,sleeping,"Lat:48.0196, Long:35.5233",morning,FALSE,active,92,TRUE,FALSE,TRUE
+65,standing,walking,"Lat:38.323, Long:14.7991",night,FALSE,off,85,FALSE,FALSE,FALSE
+111,standing,exercising,"Lat:44.2576, Long:15.1963",night,TRUE,idle,87,FALSE,FALSE,TRUE
+68,sitting,eating,"Lat:36.2558, Long:45.9959",night,TRUE,active,84,TRUE,FALSE,FALSE
+172,standing,studying,"Lat:32.6428, Long:48.6866",evening,TRUE,idle,64,TRUE,TRUE,TRUE
+119,standing,running,"Lat:45.8401, Long:37.8261",morning,TRUE,off,70,TRUE,TRUE,FALSE
+170,standing,walking,"Lat:20.1334, Long:28.6782",night,FALSE,active,43,FALSE,TRUE,TRUE
+96,lying down,running,"Lat:47.4473, Long:35.5512",night,FALSE,off,79,FALSE,FALSE,TRUE
+159,standing,walking,"Lat:46.9078, Long:21.0553",night,TRUE,off,84,FALSE,TRUE,TRUE
+168,standing,sleeping,"Lat:27.0793, Long:46.1357",night,TRUE,off,55,FALSE,TRUE,FALSE
+99,lying down,sleeping,"Lat:40.7952, Long:22.9362",afternoon,FALSE,off,75,FALSE,FALSE,TRUE
+101,standing,walking,"Lat:16.4786, Long:12.9599",morning,FALSE,active,77,FALSE,FALSE,TRUE
+71,lying down,walking,"Lat:41.0842, Long:25.312",morning,TRUE,active,38,FALSE,FALSE,FALSE
+130,lying down,exercising,"Lat:23.3062, Long:12.4023",night,FALSE,off,87,TRUE,TRUE,TRUE
+118,standing,sleeping,"Lat:48.2242, Long:20.5866",evening,TRUE,off,51,TRUE,TRUE,TRUE
+61,standing,running,"Lat:27.623, Long:29.6689",morning,FALSE,off,34,TRUE,FALSE,FALSE
+107,sitting,sleeping,"Lat:47.1435, Long:34.4121",evening,TRUE,active,95,TRUE,TRUE,TRUE
+85,lying down,walking,"Lat:17.1377, Long:29.6823",night,TRUE,active,62,TRUE,FALSE,TRUE
+97,lying down,running,"Lat:15.7549, Long:40.7483",night,FALSE,active,82,FALSE,TRUE,TRUE
+132,standing,walking,"Lat:18.7355, Long:35.7335",morning,FALSE,active,67,FALSE,FALSE,FALSE
+160,sitting,sitting,"Lat:46.5044, Long:38.616",night,TRUE,idle,97,FALSE,TRUE,TRUE
+98,lying down,walking,"Lat:14.1315, Long:12.9168",evening,TRUE,active,75,FALSE,FALSE,TRUE
+154,sitting,sleeping,"Lat:32.8538, Long:20.0239",night,TRUE,idle,80,FALSE,FALSE,FALSE
+139,lying down,studying,"Lat:27.8353, Long:45.8605",night,FALSE,active,33,TRUE,TRUE,TRUE
+91,lying down,sleeping,"Lat:15.9542, Long:35.6134",morning,FALSE,active,44,FALSE,FALSE,TRUE
+119,standing,sleeping,"Lat:47.3157, Long:36.5842",afternoon,FALSE,idle,53,TRUE,FALSE,FALSE
+107,lying down,exercising,"Lat:20.6575, Long:38.0022",evening,TRUE,active,71,TRUE,FALSE,TRUE
+135,standing,running,"Lat:46.1847, Long:32.9856",afternoon,TRUE,off,84,FALSE,FALSE,FALSE
+123,lying down,exercising,"Lat:30.6153, Long:47.5964",night,FALSE,active,53,FALSE,FALSE,TRUE
+158,standing,exercising,"Lat:29.6272, Long:27.4423",evening,TRUE,active,75,FALSE,FALSE,FALSE
+159,lying down,exercising,"Lat:43.762, Long:41.2375",night,FALSE,active,61,TRUE,FALSE,FALSE
+85,standing,eating,"Lat:41.4153, Long:31.6051",afternoon,FALSE,idle,39,FALSE,FALSE,TRUE
+153,standing,sitting,"Lat:10.1323, Long:48.1662",afternoon,TRUE,idle,57,FALSE,TRUE,TRUE
+175,lying down,running,"Lat:42.7191, Long:29.2827",evening,FALSE,off,77,FALSE,TRUE,TRUE
+129,standing,walking,"Lat:32.6898, Long:47.4017",night,TRUE,idle,77,FALSE,TRUE,TRUE
+157,sitting,studying,"Lat:24.3567, Long:37.2734",afternoon,FALSE,off,48,FALSE,FALSE,FALSE
+161,sitting,sleeping,"Lat:26.0246, Long:35.2909",evening,FALSE,off,70,TRUE,TRUE,FALSE
+91,sitting,studying,"Lat:48.353, Long:13.6267",night,TRUE,active,45,TRUE,TRUE,FALSE
+79,standing,eating,"Lat:31.3851, Long:48.437",night,FALSE,active,31,TRUE,FALSE,TRUE
+60,lying down,studying,"Lat:13.2183, Long:28.3856",evening,TRUE,idle,70,TRUE,FALSE,FALSE
+179,sitting,walking,"Lat:40.6603, Long:35.9117",night,FALSE,idle,31,FALSE,FALSE,FALSE
+112,sitting,walking,"Lat:17.0647, Long:11.5732",afternoon,FALSE,idle,72,FALSE,FALSE,TRUE
+63,lying down,eating,"Lat:25.3665, Long:17.6401",afternoon,TRUE,active,57,FALSE,TRUE,FALSE
+89,standing,studying,"Lat:37.8353, Long:45.8584",evening,TRUE,off,89,TRUE,FALSE,FALSE
+129,standing,sleeping,"Lat:35.2247, Long:24.3704",morning,TRUE,idle,71,FALSE,FALSE,FALSE
+104,lying down,walking,"Lat:13.3945, Long:35.3117",night,TRUE,off,59,FALSE,FALSE,FALSE
+141,lying down,eating,"Lat:39.413, Long:15.5977",afternoon,TRUE,active,38,TRUE,FALSE,TRUE
+167,lying down,sleeping,"Lat:17.7237, Long:38.7896",afternoon,FALSE,idle,79,TRUE,TRUE,FALSE
+148,standing,eating,"Lat:33.7178, Long:29.5693",afternoon,TRUE,active,66,FALSE,TRUE,FALSE
+172,sitting,eating,"Lat:12.5197, Long:31.6221",afternoon,FALSE,idle,57,FALSE,TRUE,TRUE
+61,sitting,walking,"Lat:22.3092, Long:31.3576",night,TRUE,idle,97,FALSE,FALSE,FALSE
+102,lying down,sleeping,"Lat:43.37, Long:27.9723",morning,TRUE,idle,57,FALSE,FALSE,TRUE
+60,standing,exercising,"Lat:49.8333, Long:11.4817",night,TRUE,idle,43,TRUE,FALSE,FALSE
+157,lying down,sleeping,"Lat:12.2422, Long:41.5111",night,TRUE,off,65,TRUE,TRUE,TRUE
+144,lying down,sitting,"Lat:11.7126, Long:14.7275",evening,FALSE,idle,39,FALSE,TRUE,TRUE
+108,sitting,walking,"Lat:42.2841, Long:36.6927",afternoon,FALSE,active,83,FALSE,TRUE,TRUE
+168,lying down,exercising,"Lat:28.3348, Long:37.1231",afternoon,FALSE,idle,85,TRUE,FALSE,TRUE
+154,lying down,exercising,"Lat:44.9702, Long:15.9581",morning,TRUE,active,70,TRUE,TRUE,TRUE
+153,lying down,sitting,"Lat:33.1738, Long:46.9926",morning,TRUE,active,70,FALSE,TRUE,TRUE
+99,standing,studying,"Lat:11.4751, Long:15.6636",evening,FALSE,active,55,TRUE,FALSE,FALSE
+73,sitting,sleeping,"Lat:36.1533, Long:28.8488",evening,TRUE,active,55,TRUE,FALSE,TRUE
+86,standing,sleeping,"Lat:46.7208, Long:11.8321",evening,TRUE,active,36,TRUE,FALSE,TRUE
+127,lying down,running,"Lat:38.0519, Long:15.2215",afternoon,TRUE,off,93,TRUE,FALSE,FALSE
+90,lying down,walking,"Lat:16.89, Long:11.9983",afternoon,FALSE,off,93,TRUE,TRUE,TRUE
+113,lying down,studying,"Lat:22.2935, Long:41.7479",morning,FALSE,idle,35,TRUE,FALSE,FALSE
+122,standing,studying,"Lat:28.2474, Long:16.8276",morning,TRUE,active,65,TRUE,TRUE,FALSE
+67,sitting,walking,"Lat:33.6417, Long:42.712",evening,FALSE,idle,83,TRUE,FALSE,FALSE
+78,standing,running,"Lat:14.2532, Long:29.8857",night,FALSE,idle,45,FALSE,FALSE,FALSE
+151,standing,running,"Lat:41.967, Long:18.8229",morning,TRUE,idle,45,TRUE,FALSE,FALSE
+95,sitting,walking,"Lat:42.1781, Long:27.0485",afternoon,FALSE,off,87,FALSE,FALSE,FALSE
+71,standing,sleeping,"Lat:42.4608, Long:49.2877",morning,FALSE,active,51,TRUE,TRUE,TRUE
+65,lying down,eating,"Lat:37.1359, Long:22.9694",afternoon,TRUE,idle,71,FALSE,FALSE,TRUE
+177,standing,sleeping,"Lat:49.0341, Long:33.0387",night,TRUE,active,79,FALSE,TRUE,FALSE
+89,sitting,exercising,"Lat:15.4932, Long:43.4571",evening,FALSE,idle,60,FALSE,FALSE,TRUE
+174,lying down,studying,"Lat:41.7241, Long:40.5691",evening,FALSE,idle,32,TRUE,FALSE,TRUE
+168,standing,eating,"Lat:33.7234, Long:23.4201",evening,TRUE,idle,66,FALSE,TRUE,FALSE
+126,sitting,walking,"Lat:14.8298, Long:15.6495",morning,TRUE,idle,32,FALSE,TRUE,TRUE
+112,lying down,sleeping,"Lat:26.6062, Long:37.8518",evening,TRUE,idle,30,TRUE,FALSE,TRUE
+149,sitting,running,"Lat:32.1363, Long:27.5464",afternoon,TRUE,active,89,TRUE,TRUE,TRUE
+174,sitting,walking,"Lat:47.027, Long:11.628",morning,TRUE,active,66,FALSE,FALSE,FALSE
+107,standing,studying,"Lat:13.9987, Long:43.8947",morning,FALSE,off,46,FALSE,TRUE,FALSE
+118,standing,sleeping,"Lat:34.4977, Long:41.1065",night,FALSE,active,81,FALSE,TRUE,TRUE
+155,lying down,sleeping,"Lat:10.6252, Long:29.4787",night,TRUE,off,34,FALSE,TRUE,TRUE
+70,sitting,running,"Lat:10.254, Long:17.1765",morning,FALSE,off,98,TRUE,FALSE,TRUE
+134,standing,eating,"Lat:13.5656, Long:36.0702",morning,TRUE,active,97,TRUE,TRUE,TRUE
+72,lying down,sleeping,"Lat:45.4766, Long:26.6489",morning,TRUE,idle,35,FALSE,TRUE,FALSE
+124,sitting,sleeping,"Lat:42.2965, Long:40.9025",morning,FALSE,idle,73,TRUE,FALSE,TRUE
+77,sitting,eating,"Lat:37.6943, Long:18.2464",morning,TRUE,off,32,FALSE,FALSE,TRUE
+141,standing,running,"Lat:35.593, Long:30.9235",afternoon,TRUE,idle,38,TRUE,FALSE,TRUE
+164,standing,running,"Lat:26.4813, Long:47.5236",morning,TRUE,off,90,TRUE,TRUE,TRUE
+110,standing,studying,"Lat:34.4215, Long:11.5048",afternoon,TRUE,off,42,TRUE,TRUE,FALSE
+69,lying down,exercising,"Lat:17.2, Long:29.9955",evening,TRUE,off,83,FALSE,TRUE,FALSE
+135,standing,walking,"Lat:48.0119, Long:35.0877",afternoon,TRUE,off,68,TRUE,FALSE,FALSE
+132,standing,sleeping,"Lat:41.3033, Long:23.9141",evening,TRUE,idle,65,FALSE,TRUE,TRUE
+67,lying down,sleeping,"Lat:10.1828, Long:19.4256",night,TRUE,active,70,FALSE,FALSE,FALSE
+115,lying down,eating,"Lat:14.7003, Long:31.208",night,TRUE,off,74,FALSE,TRUE,TRUE
+144,sitting,running,"Lat:13.8274, Long:24.4761",morning,TRUE,idle,81,TRUE,FALSE,TRUE
+76,standing,eating,"Lat:40.4451, Long:31.5889",afternoon,TRUE,active,40,FALSE,TRUE,TRUE
+90,standing,exercising,"Lat:18.771, Long:40.8133",evening,FALSE,off,70,TRUE,FALSE,FALSE
+97,lying down,exercising,"Lat:36.3731, Long:21.0571",evening,FALSE,idle,93,FALSE,TRUE,TRUE
+93,standing,studying,"Lat:17.7488, Long:41.8645",afternoon,FALSE,active,36,TRUE,TRUE,TRUE
+168,lying down,sleeping,"Lat:37.4098, Long:48.743",morning,TRUE,active,80,FALSE,FALSE,TRUE
+100,lying down,studying,"Lat:28.9765, Long:17.053",afternoon,TRUE,active,68,TRUE,TRUE,FALSE
+178,standing,sitting,"Lat:36.8057, Long:11.7246",night,TRUE,off,88,TRUE,TRUE,FALSE
+162,sitting,eating,"Lat:35.7944, Long:21.4026",night,FALSE,off,93,TRUE,FALSE,TRUE
+110,lying down,running,"Lat:27.3869, Long:23.3718",morning,TRUE,off,45,TRUE,TRUE,FALSE
+149,standing,exercising,"Lat:42.2061, Long:40.3363",afternoon,TRUE,active,77,TRUE,TRUE,FALSE
+166,sitting,sleeping,"Lat:11.7327, Long:39.6167",night,FALSE,active,43,FALSE,TRUE,TRUE
+154,sitting,studying,"Lat:46.9945, Long:17.0355",evening,FALSE,off,33,TRUE,FALSE,TRUE
+101,sitting,walking,"Lat:41.4197, Long:29.4025",evening,FALSE,off,58,TRUE,TRUE,FALSE
+100,sitting,eating,"Lat:14.6426, Long:45.8032",afternoon,TRUE,active,36,FALSE,TRUE,FALSE
+117,standing,studying,"Lat:38.8561, Long:33.7083",morning,FALSE,active,31,FALSE,FALSE,TRUE
+94,standing,eating,"Lat:23.0389, Long:17.9501",evening,FALSE,off,47,TRUE,FALSE,FALSE
+89,standing,eating,"Lat:37.0741, Long:23.0274",evening,TRUE,idle,43,FALSE,TRUE,TRUE
+69,standing,studying,"Lat:41.159, Long:23.0453",night,FALSE,active,71,TRUE,TRUE,TRUE
+180,sitting,sitting,"Lat:13.9226, Long:39.5099",evening,FALSE,active,85,FALSE,TRUE,TRUE
+85,sitting,sleeping,"Lat:44.7955, Long:25.0213",afternoon,FALSE,off,58,FALSE,TRUE,TRUE
+77,lying down,eating,"Lat:18.8265, Long:28.8396",afternoon,TRUE,off,51,TRUE,FALSE,FALSE
+159,sitting,exercising,"Lat:29.3763, Long:45.6196",night,FALSE,idle,41,TRUE,TRUE,FALSE
+158,sitting,eating,"Lat:15.7977, Long:47.1155",afternoon,FALSE,idle,54,TRUE,TRUE,TRUE
+134,lying down,eating,"Lat:28.1996, Long:25.4932",afternoon,FALSE,off,77,TRUE,TRUE,FALSE
+73,standing,exercising,"Lat:15.4562, Long:38.7928",night,FALSE,idle,98,TRUE,TRUE,TRUE
+79,standing,sleeping,"Lat:35.2808, Long:49.0222",night,TRUE,active,30,FALSE,FALSE,TRUE
+73,standing,running,"Lat:18.0884, Long:15.0885",night,FALSE,off,36,TRUE,FALSE,FALSE
+81,standing,studying,"Lat:37.6884, Long:12.3861",night,TRUE,off,63,FALSE,TRUE,TRUE
+117,standing,walking,"Lat:15.4601, Long:44.0661",evening,FALSE,active,35,TRUE,TRUE,TRUE
+119,lying down,sitting,"Lat:28.3432, Long:16.8481",morning,FALSE,active,44,TRUE,FALSE,FALSE
+100,lying down,studying,"Lat:23.743, Long:45.4564",night,TRUE,active,36,TRUE,TRUE,TRUE
+112,standing,eating,"Lat:34.1454, Long:41.5819",afternoon,FALSE,active,68,FALSE,TRUE,TRUE
+75,sitting,walking,"Lat:35.52, Long:34.4611",morning,TRUE,idle,39,FALSE,FALSE,TRUE
+128,sitting,eating,"Lat:16.7974, Long:48.8054",morning,TRUE,off,63,FALSE,TRUE,FALSE
+105,sitting,running,"Lat:44.2002, Long:13.459",morning,FALSE,off,72,TRUE,FALSE,TRUE
+158,lying down,sitting,"Lat:44.279, Long:29.5685",evening,FALSE,idle,78,FALSE,TRUE,TRUE
+86,sitting,sleeping,"Lat:49.8266, Long:33.6632",evening,FALSE,off,64,FALSE,FALSE,FALSE
+117,lying down,sleeping,"Lat:43.4796, Long:21.1668",night,FALSE,idle,51,TRUE,TRUE,FALSE
+99,standing,studying,"Lat:39.2007, Long:39.4472",afternoon,FALSE,idle,47,FALSE,TRUE,TRUE
+119,sitting,sitting,"Lat:19.8662, Long:23.0918",night,FALSE,idle,88,TRUE,TRUE,TRUE
+93,sitting,walking,"Lat:33.1787, Long:45.6729",morning,FALSE,off,45,FALSE,FALSE,TRUE
+169,standing,running,"Lat:33.6709, Long:15.9588",night,FALSE,off,46,FALSE,FALSE,TRUE
+75,standing,exercising,"Lat:32.948, Long:10.2031",morning,TRUE,active,70,FALSE,TRUE,TRUE
+71,sitting,exercising,"Lat:49.2074, Long:11.6023",afternoon,FALSE,idle,48,FALSE,FALSE,FALSE
+80,sitting,eating,"Lat:28.8261, Long:40.7443",morning,TRUE,active,82,FALSE,TRUE,TRUE
+163,sitting,running,"Lat:11.3448, Long:31.2449",evening,FALSE,idle,87,FALSE,FALSE,TRUE
+147,sitting,sleeping,"Lat:29.1708, Long:41.9207",night,TRUE,idle,45,FALSE,TRUE,FALSE
+98,sitting,sleeping,"Lat:42.8517, Long:28.0977",night,TRUE,off,96,TRUE,FALSE,TRUE
+165,lying down,running,"Lat:19.6205, Long:32.3395",evening,TRUE,off,97,TRUE,TRUE,TRUE
+150,sitting,sleeping,"Lat:10.4969, Long:39.2715",evening,TRUE,active,60,TRUE,FALSE,TRUE
+149,sitting,running,"Lat:47.9974, Long:15.3085",evening,TRUE,active,91,FALSE,FALSE,TRUE
+137,lying down,studying,"Lat:21.8316, Long:35.9056",morning,FALSE,off,92,FALSE,FALSE,TRUE
+65,standing,exercising,"Lat:13.6292, Long:29.1913",evening,FALSE,idle,65,FALSE,FALSE,FALSE
+87,standing,walking,"Lat:22.1935, Long:38.1322",afternoon,FALSE,off,71,FALSE,TRUE,FALSE
+166,standing,exercising,"Lat:44.3169, Long:39.8915",night,FALSE,active,91,TRUE,FALSE,FALSE
+169,lying down,eating,"Lat:10.9765, Long:28.1936",night,FALSE,idle,58,FALSE,FALSE,FALSE
+101,lying down,sitting,"Lat:40.8734, Long:44.968",afternoon,FALSE,active,41,TRUE,FALSE,FALSE
+78,standing,studying,"Lat:26.2144, Long:41.5943",night,FALSE,off,63,TRUE,FALSE,TRUE
+71,standing,sitting,"Lat:24.8168, Long:28.5718",evening,FALSE,active,67,FALSE,FALSE,FALSE
+151,standing,running,"Lat:35.3361, Long:44.4153",night,FALSE,off,40,FALSE,TRUE,FALSE
+91,sitting,walking,"Lat:12.8279, Long:45.7374",afternoon,TRUE,active,75,TRUE,FALSE,FALSE
+105,lying down,studying,"Lat:23.3162, Long:11.3086",evening,FALSE,off,61,FALSE,FALSE,FALSE
+110,sitting,exercising,"Lat:27.0361, Long:20.7916",morning,TRUE,idle,56,FALSE,FALSE,FALSE
+125,lying down,sleeping,"Lat:47.8438, Long:31.6974",morning,TRUE,idle,39,TRUE,FALSE,TRUE
+66,lying down,sitting,"Lat:41.7792, Long:41.5077",evening,FALSE,off,39,FALSE,TRUE,FALSE
+146,sitting,sitting,"Lat:13.2384, Long:45.2339",night,TRUE,off,93,FALSE,TRUE,FALSE
+98,standing,eating,"Lat:39.4304, Long:12.1925",afternoon,TRUE,off,37,FALSE,FALSE,TRUE
+93,lying down,sleeping,"Lat:47.8129, Long:36.9861",evening,FALSE,active,57,TRUE,TRUE,TRUE
+164,sitting,studying,"Lat:45.5191, Long:14.4387",afternoon,FALSE,active,31,TRUE,FALSE,FALSE
+82,sitting,sleeping,"Lat:24.6236, Long:34.7653",morning,FALSE,idle,57,FALSE,FALSE,TRUE
+63,lying down,sitting,"Lat:24.6228, Long:17.0107",evening,FALSE,off,89,FALSE,FALSE,FALSE
+111,standing,sleeping,"Lat:32.3516, Long:12.6802",evening,FALSE,idle,79,TRUE,TRUE,FALSE
+169,lying down,sitting,"Lat:38.3735, Long:18.1885",afternoon,TRUE,off,54,FALSE,TRUE,TRUE
+117,lying down,exercising,"Lat:49.2501, Long:19.5453",morning,FALSE,idle,92,TRUE,TRUE,FALSE
+131,standing,studying,"Lat:14.5423, Long:29.1397",morning,FALSE,idle,43,FALSE,FALSE,TRUE
+155,sitting,eating,"Lat:47.5659, Long:33.2048",evening,TRUE,off,73,FALSE,FALSE,FALSE
+130,sitting,walking,"Lat:48.3641, Long:18.3918",afternoon,TRUE,idle,56,FALSE,TRUE,FALSE
+91,standing,studying,"Lat:39.8007, Long:19.0175",evening,FALSE,active,97,FALSE,FALSE,TRUE
+72,sitting,sleeping,"Lat:24.1085, Long:20.6943",night,TRUE,active,95,FALSE,FALSE,TRUE
+119,sitting,eating,"Lat:37.2091, Long:21.0858",morning,FALSE,active,70,FALSE,TRUE,FALSE
+73,standing,sleeping,"Lat:12.5348, Long:23.8091",morning,TRUE,active,69,FALSE,TRUE,FALSE
+162,standing,studying,"Lat:29.4491, Long:31.0673",evening,TRUE,off,88,FALSE,TRUE,TRUE
+161,sitting,walking,"Lat:14.9084, Long:38.393",evening,FALSE,active,49,FALSE,TRUE,FALSE
+77,lying down,sitting,"Lat:37.1323, Long:31.3142",evening,FALSE,off,94,TRUE,TRUE,TRUE
+75,sitting,sleeping,"Lat:21.6906, Long:34.8381",morning,TRUE,off,43,FALSE,FALSE,FALSE
+61,standing,sleeping,"Lat:41.9962, Long:47.8146",morning,FALSE,active,46,FALSE,FALSE,TRUE
+67,lying down,studying,"Lat:42.3518, Long:47.635",morning,TRUE,off,58,TRUE,FALSE,FALSE
+166,lying down,sitting,"Lat:12.6251, Long:45.6761",night,TRUE,idle,76,FALSE,FALSE,FALSE
+159,lying down,sitting,"Lat:28.315, Long:13.2068",evening,TRUE,off,79,TRUE,TRUE,FALSE
+88,lying down,sleeping,"Lat:45.9178, Long:21.5349",morning,TRUE,off,87,FALSE,FALSE,FALSE
+76,lying down,sitting,"Lat:48.2651, Long:14.3746",night,TRUE,off,95,FALSE,TRUE,FALSE
+85,lying down,eating,"Lat:21.0377, Long:37.8833",evening,FALSE,off,55,FALSE,TRUE,FALSE
+165,lying down,exercising,"Lat:29.8531, Long:44.9997",afternoon,FALSE,idle,81,TRUE,FALSE,FALSE
+111,standing,studying,"Lat:30.8275, Long:35.091",afternoon,TRUE,idle,54,TRUE,TRUE,FALSE
+107,lying down,exercising,"Lat:21.7268, Long:48.783",evening,TRUE,active,38,TRUE,TRUE,FALSE
+147,sitting,walking,"Lat:31.6574, Long:15.2811",evening,FALSE,idle,65,TRUE,FALSE,FALSE
+140,lying down,eating,"Lat:23.868, Long:27.7544",evening,TRUE,off,84,FALSE,TRUE,FALSE
+180,lying down,eating,"Lat:35.7874, Long:21.6607",afternoon,FALSE,idle,51,TRUE,TRUE,FALSE
+142,lying down,exercising,"Lat:12.518, Long:44.8717",night,FALSE,off,69,TRUE,TRUE,TRUE
+70,lying down,running,"Lat:19.2931, Long:47.8979",afternoon,FALSE,active,43,TRUE,FALSE,TRUE
+134,lying down,exercising,"Lat:35.7869, Long:26.4677",morning,FALSE,active,48,FALSE,FALSE,TRUE
+135,standing,walking,"Lat:23.7117, Long:35.842",evening,FALSE,active,89,TRUE,FALSE,TRUE
+93,sitting,studying,"Lat:23.0523, Long:33.7343",afternoon,FALSE,active,43,FALSE,FALSE,TRUE
+177,lying down,eating,"Lat:37.8745, Long:43.6763",evening,TRUE,off,44,FALSE,TRUE,TRUE
+164,lying down,exercising,"Lat:27.8103, Long:22.1633",night,TRUE,active,60,TRUE,FALSE,FALSE
+69,standing,walking,"Lat:15.2782, Long:41.5739",morning,FALSE,idle,32,TRUE,FALSE,FALSE
+62,sitting,running,"Lat:16.8695, Long:20.4003",afternoon,TRUE,active,88,TRUE,FALSE,FALSE
+68,sitting,walking,"Lat:29.3697, Long:48.829",night,FALSE,off,53,FALSE,FALSE,FALSE
+85,lying down,sleeping,"Lat:40.79, Long:11.8928",night,TRUE,active,64,TRUE,TRUE,FALSE
+175,lying down,studying,"Lat:24.1248, Long:28.2371",morning,FALSE,idle,33,TRUE,FALSE,TRUE
+142,lying down,eating,"Lat:16.6545, Long:46.9653",morning,FALSE,active,90,FALSE,FALSE,FALSE
+116,sitting,sitting,"Lat:38.4725, Long:21.4099",morning,TRUE,idle,97,TRUE,FALSE,TRUE
+163,standing,eating,"Lat:48.9282, Long:43.5733",night,TRUE,active,87,FALSE,FALSE,FALSE
+76,lying down,sleeping,"Lat:37.7144, Long:36.6542",afternoon,FALSE,off,75,TRUE,FALSE,TRUE
+71,lying down,sleeping,"Lat:16.1394, Long:19.5162",night,TRUE,active,63,FALSE,FALSE,FALSE
+175,standing,exercising,"Lat:11.6461, Long:22.665",afternoon,TRUE,active,45,FALSE,FALSE,FALSE
+168,standing,exercising,"Lat:15.0589, Long:20.4163",night,TRUE,off,100,FALSE,FALSE,FALSE
+166,lying down,exercising,"Lat:17.3799, Long:32.4995",morning,FALSE,active,40,TRUE,FALSE,TRUE
+163,standing,running,"Lat:11.3876, Long:22.6778",evening,FALSE,active,75,TRUE,TRUE,TRUE
+102,lying down,walking,"Lat:23.7539, Long:24.9166",night,FALSE,off,85,TRUE,FALSE,TRUE
+75,sitting,studying,"Lat:31.5947, Long:16.5039",night,FALSE,idle,57,TRUE,TRUE,FALSE
+65,sitting,exercising,"Lat:22.0624, Long:46.8174",evening,TRUE,off,49,TRUE,FALSE,TRUE
+180,standing,running,"Lat:26.1825, Long:29.9767",night,TRUE,off,80,TRUE,FALSE,FALSE
+119,standing,eating,"Lat:15.8154, Long:28.3216",night,FALSE,idle,94,FALSE,TRUE,FALSE
+66,sitting,running,"Lat:22.8087, Long:10.1718",night,TRUE,idle,85,FALSE,FALSE,TRUE
+81,sitting,eating,"Lat:39.5398, Long:49.024",night,TRUE,active,95,TRUE,FALSE,FALSE
+178,standing,walking,"Lat:23.2512, Long:38.2181",night,TRUE,off,72,TRUE,TRUE,TRUE
+133,sitting,studying,"Lat:28.9564, Long:21.5931",afternoon,FALSE,off,36,FALSE,TRUE,TRUE
+115,sitting,sleeping,"Lat:47.7604, Long:49.2276",afternoon,TRUE,idle,86,FALSE,TRUE,FALSE
+165,standing,studying,"Lat:32.9491, Long:15.8833",afternoon,TRUE,off,64,TRUE,FALSE,TRUE
+152,lying down,running,"Lat:32.6093, Long:46.2752",night,FALSE,active,77,TRUE,FALSE,FALSE
+110,standing,running,"Lat:27.6842, Long:37.5659",night,TRUE,idle,42,TRUE,FALSE,TRUE
+123,lying down,sitting,"Lat:39.2656, Long:46.007",afternoon,TRUE,off,36,TRUE,TRUE,FALSE
+63,lying down,walking,"Lat:15.5769, Long:32.0384",morning,TRUE,idle,78,FALSE,FALSE,TRUE
+108,sitting,sitting,"Lat:22.3233, Long:26.0652",afternoon,TRUE,idle,84,TRUE,FALSE,TRUE
+147,sitting,running,"Lat:43.6351, Long:27.8389",night,TRUE,active,54,FALSE,FALSE,FALSE
+114,standing,sleeping,"Lat:13.6992, Long:12.2013",night,TRUE,off,67,FALSE,FALSE,FALSE
+82,standing,running,"Lat:35.6525, Long:33.3373",morning,FALSE,active,54,TRUE,TRUE,FALSE
+105,sitting,exercising,"Lat:18.8858, Long:47.4266",afternoon,FALSE,idle,81,FALSE,TRUE,TRUE
+87,sitting,studying,"Lat:21.1171, Long:10.9019",evening,FALSE,active,52,TRUE,FALSE,TRUE
+176,lying down,studying,"Lat:31.5365, Long:27.8183",morning,TRUE,off,65,TRUE,FALSE,FALSE
+83,sitting,sleeping,"Lat:36.8623, Long:13.4951",night,TRUE,idle,97,TRUE,TRUE,FALSE
+95,standing,exercising,"Lat:30.4715, Long:17.778",morning,TRUE,active,93,FALSE,TRUE,TRUE
+95,sitting,sleeping,"Lat:22.7103, Long:34.2031",morning,FALSE,idle,96,TRUE,TRUE,TRUE
+117,sitting,sitting,"Lat:47.7361, Long:46.3379",evening,TRUE,active,85,TRUE,TRUE,TRUE
+173,sitting,exercising,"Lat:24.4426, Long:15.9178",evening,FALSE,off,43,TRUE,FALSE,TRUE
+79,standing,sleeping,"Lat:44.1522, Long:24.7852",morning,TRUE,off,36,TRUE,FALSE,TRUE
+64,sitting,running,"Lat:24.9132, Long:21.386",afternoon,FALSE,off,61,FALSE,FALSE,TRUE
+138,lying down,eating,"Lat:24.0542, Long:49.1009",morning,TRUE,active,44,TRUE,TRUE,TRUE
+139,lying down,eating,"Lat:44.9721, Long:13.5039",evening,FALSE,off,58,FALSE,FALSE,FALSE
+138,standing,walking,"Lat:39.1141, Long:27.7688",evening,TRUE,off,44,FALSE,FALSE,TRUE
+91,standing,exercising,"Lat:49.7039, Long:42.1474",evening,TRUE,off,36,FALSE,TRUE,FALSE
+142,sitting,studying,"Lat:21.5454, Long:42.2269",evening,FALSE,idle,34,TRUE,FALSE,FALSE
+97,sitting,studying,"Lat:48.8144, Long:26.9533",evening,FALSE,off,64,FALSE,FALSE,TRUE
+123,standing,running,"Lat:45.8572, Long:15.5827",night,TRUE,idle,60,FALSE,TRUE,TRUE
+112,lying down,walking,"Lat:33.4872, Long:13.4431",morning,TRUE,off,38,FALSE,TRUE,TRUE
+172,lying down,eating,"Lat:18.3114, Long:28.9845",afternoon,TRUE,off,98,TRUE,TRUE,FALSE
+130,standing,exercising,"Lat:44.701, Long:49.4655",afternoon,FALSE,off,42,TRUE,FALSE,TRUE
+121,standing,eating,"Lat:12.6446, Long:48.4038",night,TRUE,off,65,FALSE,FALSE,FALSE
+67,lying down,sleeping,"Lat:40.2446, Long:13.5379",morning,TRUE,active,58,FALSE,FALSE,FALSE
+71,lying down,sitting,"Lat:26.3784, Long:46.5764",evening,TRUE,idle,81,FALSE,FALSE,FALSE
+95,lying down,walking,"Lat:26.5806, Long:32.2326",evening,TRUE,active,80,FALSE,FALSE,FALSE
+109,sitting,running,"Lat:38.4099, Long:40.2097",afternoon,TRUE,idle,80,FALSE,TRUE,FALSE
+77,lying down,eating,"Lat:15.4771, Long:17.4403",afternoon,FALSE,idle,42,TRUE,FALSE,TRUE
+113,lying down,sleeping,"Lat:25.2708, Long:32.1547",night,FALSE,active,58,TRUE,TRUE,FALSE
+85,standing,sleeping,"Lat:11.6893, Long:43.0499",morning,FALSE,off,64,FALSE,TRUE,FALSE
+142,lying down,sleeping,"Lat:43.3834, Long:22.1566",morning,FALSE,off,93,FALSE,FALSE,TRUE
+173,lying down,exercising,"Lat:32.3712, Long:28.5381",evening,FALSE,idle,56,FALSE,FALSE,TRUE
+162,sitting,walking,"Lat:11.0736, Long:10.0979",morning,FALSE,active,51,FALSE,TRUE,TRUE
+127,sitting,sleeping,"Lat:20.5071, Long:48.2411",morning,FALSE,idle,56,TRUE,TRUE,TRUE
+91,sitting,walking,"Lat:43.3697, Long:28.9016",night,FALSE,active,74,FALSE,FALSE,FALSE
+140,standing,exercising,"Lat:36.1525, Long:45.7075",night,FALSE,off,66,TRUE,TRUE,TRUE
+162,standing,running,"Lat:26.6863, Long:29.6755",evening,FALSE,off,66,FALSE,TRUE,FALSE
+129,sitting,sitting,"Lat:37.5137, Long:19.79",night,TRUE,idle,30,FALSE,FALSE,TRUE
+161,sitting,walking,"Lat:14.7742, Long:21.0887",evening,FALSE,idle,42,FALSE,TRUE,FALSE
+62,lying down,exercising,"Lat:49.7733, Long:12.669",night,FALSE,active,53,TRUE,FALSE,FALSE
+108,lying down,running,"Lat:39.8226, Long:33.2426",night,FALSE,idle,94,FALSE,FALSE,TRUE
+160,lying down,walking,"Lat:32.623, Long:44.7338",afternoon,TRUE,active,91,TRUE,FALSE,TRUE
+151,sitting,running,"Lat:35.1198, Long:29.0416",afternoon,FALSE,idle,69,TRUE,TRUE,TRUE
+105,lying down,sitting,"Lat:37.7698, Long:14.7833",night,FALSE,active,60,FALSE,TRUE,FALSE
+121,lying down,eating,"Lat:30.501, Long:33.0105",night,TRUE,idle,51,TRUE,TRUE,TRUE
+129,sitting,studying,"Lat:43.8112, Long:16.5139",night,TRUE,active,70,FALSE,FALSE,TRUE
+160,lying down,sitting,"Lat:12.3404, Long:22.7872",afternoon,FALSE,active,38,FALSE,FALSE,TRUE
+122,sitting,exercising,"Lat:45.1327, Long:15.4199",evening,FALSE,active,51,FALSE,FALSE,FALSE
+104,standing,studying,"Lat:16.5324, Long:20.9068",morning,TRUE,off,53,TRUE,TRUE,FALSE
+176,standing,studying,"Lat:26.7806, Long:46.4842",night,TRUE,idle,72,FALSE,TRUE,FALSE
+132,lying down,sleeping,"Lat:24.2394, Long:21.5942",night,TRUE,off,88,FALSE,FALSE,FALSE
+124,standing,walking,"Lat:31.1845, Long:47.4527",afternoon,FALSE,active,48,TRUE,FALSE,TRUE
+101,standing,sleeping,"Lat:30.5547, Long:40.6577",night,TRUE,off,31,TRUE,TRUE,TRUE
+109,sitting,running,"Lat:17.3299, Long:13.7803",evening,FALSE,idle,90,TRUE,FALSE,FALSE
+94,sitting,exercising,"Lat:40.1051, Long:31.7485",morning,FALSE,active,84,TRUE,FALSE,FALSE
+83,lying down,exercising,"Lat:44.8977, Long:43.0729",night,FALSE,idle,72,TRUE,FALSE,TRUE
+63,sitting,running,"Lat:37.3987, Long:22.0429",evening,FALSE,active,32,FALSE,TRUE,FALSE
+100,lying down,running,"Lat:37.4177, Long:37.5339",morning,TRUE,active,52,TRUE,FALSE,TRUE
+136,lying down,sleeping,"Lat:13.8333, Long:33.2019",afternoon,TRUE,idle,63,TRUE,FALSE,FALSE
+88,sitting,sitting,"Lat:42.9326, Long:10.5159",morning,FALSE,off,39,TRUE,TRUE,FALSE
+63,lying down,exercising,"Lat:30.7268, Long:24.9206",evening,TRUE,off,51,FALSE,TRUE,FALSE
+174,standing,eating,"Lat:29.396, Long:23.6125",morning,FALSE,active,31,FALSE,TRUE,TRUE
+163,standing,sleeping,"Lat:46.4315, Long:14.0967",morning,TRUE,active,75,TRUE,FALSE,FALSE
+159,standing,sleeping,"Lat:16.1822, Long:18.8445",afternoon,FALSE,active,90,TRUE,FALSE,TRUE
+95,sitting,sitting,"Lat:17.5367, Long:45.8823",morning,FALSE,active,30,FALSE,FALSE,TRUE
+67,standing,sitting,"Lat:34.5371, Long:43.2566",afternoon,TRUE,idle,92,FALSE,FALSE,TRUE
+163,lying down,eating,"Lat:31.0261, Long:31.2838",night,FALSE,active,61,FALSE,TRUE,FALSE
+120,lying down,sitting,"Lat:32.0445, Long:40.2523",morning,FALSE,idle,90,FALSE,TRUE,FALSE
+127,lying down,walking,"Lat:14.5587, Long:28.4197",morning,TRUE,off,44,FALSE,FALSE,TRUE
+105,sitting,sleeping,"Lat:13.056, Long:42.7538",afternoon,FALSE,idle,35,TRUE,TRUE,TRUE
+158,standing,walking,"Lat:46.9364, Long:29.1807",morning,FALSE,active,32,TRUE,FALSE,TRUE
+134,sitting,studying,"Lat:22.4629, Long:24.5027",evening,FALSE,off,67,FALSE,TRUE,FALSE
+89,lying down,studying,"Lat:42.6815, Long:45.5891",afternoon,TRUE,off,59,FALSE,FALSE,FALSE
+80,standing,sleeping,"Lat:33.9059, Long:40.5436",afternoon,FALSE,active,97,TRUE,FALSE,TRUE
+72,standing,running,"Lat:23.6818, Long:38.3958",night,FALSE,off,94,FALSE,FALSE,FALSE
+91,standing,sitting,"Lat:11.1504, Long:42.583",morning,TRUE,active,51,TRUE,FALSE,FALSE
+144,sitting,walking,"Lat:18.8943, Long:44.2726",evening,TRUE,off,48,FALSE,TRUE,TRUE
+90,standing,studying,"Lat:15.6944, Long:19.063",night,TRUE,active,42,FALSE,TRUE,FALSE
+94,sitting,sleeping,"Lat:15.0138, Long:15.2087",morning,TRUE,idle,42,FALSE,TRUE,TRUE
+128,standing,running,"Lat:13.1442, Long:37.6327",night,FALSE,idle,68,TRUE,TRUE,FALSE
+164,lying down,sleeping,"Lat:41.3612, Long:13.1094",morning,TRUE,active,72,FALSE,TRUE,FALSE
+161,sitting,running,"Lat:40.9877, Long:40.2934",evening,FALSE,active,87,FALSE,TRUE,TRUE
+177,standing,sleeping,"Lat:11.7007, Long:14.3127",night,FALSE,active,92,FALSE,FALSE,FALSE
+154,sitting,sitting,"Lat:41.7222, Long:30.5392",afternoon,TRUE,off,74,TRUE,TRUE,TRUE
+67,standing,sitting,"Lat:12.3706, Long:14.7569",night,FALSE,active,99,TRUE,TRUE,FALSE
+157,lying down,running,"Lat:20.1205, Long:12.6499",morning,TRUE,active,62,FALSE,FALSE,FALSE
+88,lying down,eating,"Lat:36.7035, Long:40.182",evening,FALSE,active,92,TRUE,FALSE,TRUE
+133,lying down,sleeping,"Lat:41.2948, Long:46.8039",night,TRUE,active,62,FALSE,FALSE,TRUE
+168,standing,sitting,"Lat:18.216, Long:46.047",evening,TRUE,idle,76,TRUE,FALSE,TRUE
+162,sitting,sleeping,"Lat:17.3913, Long:24.0613",morning,TRUE,active,88,TRUE,TRUE,FALSE
+109,sitting,eating,"Lat:13.6312, Long:43.8345",morning,TRUE,off,31,TRUE,FALSE,FALSE
+105,lying down,eating,"Lat:47.6738, Long:47.9517",morning,TRUE,off,75,TRUE,TRUE,FALSE
+179,lying down,sleeping,"Lat:23.9135, Long:16.4223",afternoon,TRUE,active,68,TRUE,TRUE,FALSE
+167,lying down,sitting,"Lat:30.0254, Long:39.1422",evening,FALSE,active,72,TRUE,FALSE,FALSE
+168,standing,exercising,"Lat:19.6729, Long:32.8094",afternoon,TRUE,active,96,FALSE,FALSE,TRUE
+82,sitting,studying,"Lat:13.9642, Long:33.1253",afternoon,TRUE,off,91,TRUE,FALSE,FALSE
+82,standing,studying,"Lat:10.5594, Long:18.6799",evening,FALSE,off,44,TRUE,TRUE,FALSE
+90,lying down,sleeping,"Lat:17.6619, Long:21.2743",morning,FALSE,idle,64,FALSE,FALSE,TRUE
+135,lying down,studying,"Lat:46.0664, Long:31.4851",afternoon,FALSE,off,96,FALSE,FALSE,FALSE
+100,standing,eating,"Lat:48.9432, Long:13.9474",evening,TRUE,active,32,TRUE,TRUE,TRUE
+163,lying down,walking,"Lat:18.5606, Long:30.1678",night,FALSE,active,48,FALSE,FALSE,TRUE
+154,sitting,eating,"Lat:38.3102, Long:24.6585",afternoon,FALSE,active,82,TRUE,TRUE,TRUE
+149,lying down,sitting,"Lat:33.5752, Long:27.5866",morning,TRUE,idle,58,FALSE,TRUE,TRUE
+105,sitting,eating,"Lat:48.3099, Long:17.2339",evening,TRUE,off,48,FALSE,TRUE,FALSE
+176,lying down,studying,"Lat:24.1929, Long:25.1846",afternoon,FALSE,idle,75,TRUE,FALSE,FALSE
+135,standing,exercising,"Lat:18.571, Long:19.1022",morning,TRUE,active,93,FALSE,FALSE,TRUE
+63,lying down,studying,"Lat:14.5138, Long:49.3845",morning,FALSE,idle,33,TRUE,TRUE,FALSE
+150,lying down,sleeping,"Lat:14.9446, Long:14.4126",evening,TRUE,idle,61,FALSE,FALSE,FALSE
+149,standing,eating,"Lat:15.4365, Long:40.4909",night,TRUE,idle,85,FALSE,TRUE,FALSE
+105,lying down,running,"Lat:38.1892, Long:32.2853",morning,FALSE,active,76,FALSE,FALSE,TRUE
+132,standing,studying,"Lat:11.6243, Long:23.1246",evening,FALSE,active,56,FALSE,FALSE,FALSE
+132,standing,running,"Lat:14.6289, Long:21.3445",afternoon,FALSE,active,41,FALSE,TRUE,FALSE
+78,sitting,sitting,"Lat:34.0156, Long:22.4803",night,FALSE,off,54,TRUE,FALSE,FALSE
+132,lying down,running,"Lat:49.0472, Long:27.7582",evening,TRUE,off,78,TRUE,TRUE,FALSE
+84,lying down,studying,"Lat:32.1566, Long:21.6236",evening,TRUE,idle,43,FALSE,TRUE,FALSE
+167,lying down,exercising,"Lat:44.2146, Long:17.5514",night,FALSE,off,65,TRUE,TRUE,FALSE
+163,sitting,eating,"Lat:12.7844, Long:43.6423",morning,TRUE,off,99,FALSE,TRUE,FALSE
+172,lying down,walking,"Lat:29.0271, Long:37.1652",morning,FALSE,active,87,FALSE,FALSE,TRUE
+123,sitting,exercising,"Lat:17.1719, Long:49.9489",afternoon,TRUE,active,97,FALSE,TRUE,FALSE
+129,sitting,exercising,"Lat:29.6659, Long:14.2069",afternoon,TRUE,active,52,FALSE,TRUE,FALSE
+99,lying down,walking,"Lat:27.5223, Long:36.3419",afternoon,TRUE,active,63,TRUE,TRUE,TRUE
+82,lying down,eating,"Lat:13.4002, Long:15.7347",night,FALSE,off,74,FALSE,TRUE,FALSE
+122,standing,sitting,"Lat:26.025, Long:33.6223",night,TRUE,idle,72,TRUE,TRUE,FALSE
+64,sitting,studying,"Lat:14.0689, Long:47.0116",morning,TRUE,active,80,TRUE,FALSE,FALSE
+120,standing,trouble,"Lat:43.8112, Long:16.5139",evening,TRUE,active,100,FALSE,FALSE,TRUE
+130,lying down,trouble,"Lat:12.3404, Long:22.7872",night,TRUE,idle,120,FALSE,FALSE,TRUE
+115,sitting,trouble,"Lat:45.1327, Long:15.4199",afternoon,TRUE,active,128,TRUE,FALSE,TRUE
+125,sitting,trouble,"Lat:16.5324, Long:20.9068",evening,TRUE,idle,129,FALSE,FALSE,TRUE
+140,sitting,trouble,"Lat:26.7806, Long:46.4842",night,TRUE,idle,140,FALSE,FALSE,TRUE
+135,sitting,trouble,"Lat:24.2394, Long:21.5942",evening,TRUE,idle,170,FALSE,FALSE,TRUE
+110,sitting,trouble,"Lat:31.1845, Long:47.4527",morning,FALSE,idle,145,FALSE,FALSE,FALSE
+145,sitting,trouble,"Lat:30.5547, Long:40.6577",night,FALSE,idle,138,FALSE,FALSE,FALSE
+150,sitting,trouble,"Lat:17.3299, Long:13.7803",evening,FALSE,idle,138,FALSE,FALSE,FALSE
+160,sitting,trouble,"Lat:40.1051, Long:31.7485",night,FALSE,idle,120,FALSE,FALSE,FALSE
+125,sitting,trouble,"Lat:44.8977, Long:43.0729",afternoon,FALSE,idle,128,FALSE,FALSE,FALSE
+130,sitting,trouble,"Lat:37.3987, Long:22.0429",night,FALSE,idle,120,FALSE,FALSE,FALSE
+120,sitting,trouble,"Lat:37.4177, Long:37.5339",morning,FALSE,idle,128,FALSE,FALSE,FALSE
+135,sitting,trouble,"Lat:13.8333, Long:33.2019",evening,TRUE,idle,129,TRUE,FALSE,TRUE
+140,sitting,trouble,"Lat:42.9326, Long:10.5159",night,FALSE,idle,140,TRUE,FALSE,TRUE
+145,sitting,trouble,"Lat:30.7268, Long:24.9206",evening,TRUE,idle,129,TRUE,FALSE,TRUE
+150,sitting,trouble,"Lat:29.396, Long:23.6125",night,FALSE,idle,140,TRUE,FALSE,TRUE
+155,sitting,trouble,"Lat:46.4315, Long:14.0967",morning,TRUE,idle,120,TRUE,FALSE,TRUE
+160,sitting,trouble,"Lat:16.1822, Long:18.8445",afternoon,TRUE,idle,128,TRUE,FALSE,TRUE
+165,sitting,trouble,"Lat:17.5367, Long:45.8823",evening,TRUE,idle,129,TRUE,FALSE,TRUE
+170,sitting,trouble,"Lat:34.5371, Long:43.2566",night,TRUE,idle,120,TRUE,FALSE,TRUE
+175,sitting,trouble,"Lat:31.0261, Long:31.2838",morning,TRUE,idle,128,TRUE,FALSE,TRUE
+180,sitting,trouble,"Lat:32.0445, Long:40.2523",afternoon,TRUE,idle,129,TRUE,FALSE,TRUE
+185,sitting,trouble,"Lat:14.5587, Long:28.4197",evening,TRUE,idle,140,TRUE,FALSE,TRUE
+190,sitting,trouble,"Lat:13.056, Long:42.7538",night,TRUE,idle,120,TRUE,FALSE,TRUE
+195,sitting,trouble,"Lat:46.9364, Long:29.1807",morning,TRUE,idle,128,FALSE,FALSE,FALSE
+200,sitting,trouble,"Lat:22.4629, Long:24.5027",afternoon,TRUE,idle,129,FALSE,FALSE,FALSE
+205,sitting,trouble,"Lat:42.6815, Long:45.5891",evening,TRUE,idle,120,FALSE,FALSE,FALSE
+210,sitting,trouble,"Lat:33.9059, Long:40.5436",night,TRUE,idle,128,FALSE,FALSE,FALSE
+215,sitting,trouble,"Lat:23.6818, Long:38.3958",morning,TRUE,idle,129,FALSE,FALSE,FALSE
+220,sitting,trouble,"Lat:11.1504, Long:42.583",afternoon,TRUE,idle,120,FALSE,FALSE,FALSE
+225,sitting,trouble,"Lat:42.6815, Long:45.5891",evening,FALSE,idle,128,FALSE,FALSE,FALSE
+230,sitting,trouble,"Lat:33.9059, Long:40.5436",night,FALSE,idle,129,FALSE,FALSE,FALSE
